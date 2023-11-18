@@ -1,0 +1,1864 @@
+{
+  "films": [
+    {
+      "name": "69",
+      "genre": "Japanese Movies",
+      "directed_by": "Lee Sang-il",
+      "initial_release_date": "2004-07-10"
+    },
+    {
+      "name": "\"Weird Al\" Yankovic: The Ultimate Video Collection",
+      "genre": "Music video",
+      "directed_by": "Jay Levey",
+      "initial_release_date": "2003-11-04"
+    },
+    {
+      "name": "8 Mile",
+      "genre": "Musical",
+      "directed_by": "Curtis Hanson",
+      "initial_release_date": "2002-09-08"
+    },
+    {
+      "name": "10th &amp; Wolf",
+      "genre": "Mystery",
+      "directed_by": "Robert Moresco",
+      "initial_release_date": "2006-08-18"
+    },
+    {
+      "name": "102 Dalmatians",
+      "genre": "Family",
+      "directed_by": "Kevin Lima",
+      "initial_release_date": "2000-11-22"
+    },
+    {
+      "name": "16 Years of Alcohol",
+      "genre": "Indie film",
+      "directed_by": "Richard Jobson",
+      "initial_release_date": "2003-08-14"
+    },
+    {
+      "name": "3 Needles",
+      "genre": "Indie film",
+      "directed_by": "Thom Fitzgerald",
+      "initial_release_date": "2006-12-01"
+    },
+    {
+      "name": "500 Years Later",
+      "genre": "Indie film",
+      "directed_by": "Owen 'Alik Shahadah",
+      "initial_release_date": "2005-10-11"
+    },
+    {
+      "name": "50 Ways of Saying Fabulous",
+      "genre": "LGBT",
+      "directed_by": "Stewart Main"
+    },
+    {
+      "name": "2LDK",
+      "genre": "LGBT",
+      "directed_by": "Yukihiko Tsutsumi",
+      "initial_release_date": "2004-05-13"
+    },
+    {
+      "name": "A Cock and Bull Story",
+      "genre": "Mockumentary",
+      "directed_by": "Michael Winterbottom",
+      "initial_release_date": "2005-07-17"
+    },
+    {
+      "name": "A Duo Occasion",
+      "genre": "Music video",
+      "directed_by": "Pierre Lamoureux",
+      "initial_release_date": "2005-11-22"
+    },
+    {
+      "name": "A Hole in My Heart",
+      "genre": "Horror",
+      "directed_by": "Lukas Moodysson",
+      "initial_release_date": "2004-09-10"
+    },
+    {
+      "name": "A Love Song for Bobby Long",
+      "genre": "Film adaptation",
+      "directed_by": "Shainee Gabel",
+      "initial_release_date": "2004-09-02"
+    },
+    {
+      "name": "A Mighty Wind",
+      "genre": "Mockumentary",
+      "directed_by": "Christopher Guest",
+      "initial_release_date": "2003-03-12"
+    },
+    {
+      "name": "A Prairie Home Companion",
+      "genre": "Musical comedy",
+      "directed_by": "Robert Altman",
+      "initial_release_date": "2006-02-12"
+    },
+    {
+      "name": "Abandon",
+      "genre": "Mystery",
+      "directed_by": "Stephen Gaghan",
+      "initial_release_date": "2002-10-18"
+    },
+    {
+      "name": "Adam Resurrected",
+      "genre": "Historical period drama",
+      "directed_by": "Paul Schrader",
+      "initial_release_date": "2008-08-30"
+    },
+    {
+      "name": "Air",
+      "genre": "Fantasy",
+      "directed_by": "Osamu Dezaki",
+      "initial_release_date": "2005-02-05"
+    },
+    {
+      "name": "Air Bud: Seventh Inning Fetch",
+      "genre": "Family",
+      "directed_by": "Robert Vince",
+      "initial_release_date": "2002-02-21"
+    },
+    {
+      "name": "Air Bud: Spikes Back",
+      "genre": "Family",
+      "directed_by": "Mike Southon",
+      "initial_release_date": "2003-06-24"
+    },
+    {
+      "name": "Air Buddies",
+      "genre": "Family",
+      "directed_by": "Robert Vince",
+      "initial_release_date": "2006-12-10"
+    },
+    {
+      "name": "AKA",
+      "genre": "LGBT",
+      "directed_by": "Duncan Roy",
+      "initial_release_date": "2002-01-19"
+    },
+    {
+      "name": "The Reflection",
+      "genre": "Horror",
+      "directed_by": "Rakeysh Omprakash Mehra",
+      "initial_release_date": "2001-07-13"
+    },
+    {
+      "name": "Al Franken: God Spoke",
+      "genre": "Mockumentary",
+      "directed_by": "Nick Doob",
+      "initial_release_date": "2006-09-13"
+    },
+    {
+      "name": "Waves",
+      "genre": "Musical",
+      "directed_by": "Mani Ratnam",
+      "initial_release_date": "2000-04-14"
+    },
+    {
+      "name": "All Over the Guy",
+      "genre": "Indie film",
+      "directed_by": "Julie Davis"
+    },
+    {
+      "name": "All Souls Day",
+      "genre": "Horror",
+      "directed_by": "Jeremy Kasten",
+      "initial_release_date": "2005-01-25"
+    },
+    {
+      "name": "Alley Cats Strike!",
+      "genre": "Family",
+      "directed_by": "Rod Daniel",
+      "initial_release_date": "2000-03-18"
+    },
+    {
+      "name": "Almost Famous",
+      "genre": "Musical",
+      "directed_by": "Cameron Crowe",
+      "initial_release_date": "2000-09-08"
+    },
+    {
+      "name": "American Desi",
+      "genre": "Indie film",
+      "directed_by": "Piyush Dinker Pandya"
+    },
+    {
+      "name": "Bolt",
+      "genre": "Family",
+      "directed_by": "Chris Williams",
+      "initial_release_date": "2008-11-17"
+    },
+    {
+      "name": "American Gun",
+      "genre": "Indie film",
+      "directed_by": "Aric Avelino",
+      "initial_release_date": "2005-09-15"
+    },
+    {
+      "name": "American Hardcore",
+      "genre": "Music",
+      "directed_by": "Paul Rachman",
+      "initial_release_date": "2006-03-11"
+    },
+    {
+      "name": "American Splendor",
+      "genre": "Indie film",
+      "directed_by": "Shari Springer Berman",
+      "initial_release_date": "2003-01-20"
+    },
+    {
+      "name": "An American Haunting",
+      "genre": "Horror",
+      "directed_by": "Courtney Solomon",
+      "initial_release_date": "2005-11-05"
+    },
+    {
+      "name": "An American Tail: The Mystery of the Night Monster",
+      "genre": "Fantasy",
+      "directed_by": "Larry Latham",
+      "initial_release_date": "2000-07-25"
+    },
+    {
+      "name": "An Unfinished Life",
+      "genre": "Melodrama",
+      "directed_by": "Lasse Hallström",
+      "initial_release_date": "2005-08-19"
+    },
+    {
+      "name": "Anand",
+      "genre": "Musical",
+      "directed_by": "Sekhar Kammula",
+      "initial_release_date": "2004-10-15"
+    },
+    {
+      "name": "Love is God",
+      "genre": "Musical",
+      "directed_by": "Sundar C.",
+      "initial_release_date": "2003-01-14"
+    },
+    {
+      "name": "Ancanar",
+      "genre": "Fantasy",
+      "directed_by": "Sam R. Balcomb"
+    },
+    {
+      "name": "Andaaz",
+      "genre": "Musical",
+      "directed_by": "Raj Kanwar",
+      "initial_release_date": "2003-05-23"
+    },
+    {
+      "name": "Angels in the Infield",
+      "genre": "Fantasy",
+      "directed_by": "Robert King",
+      "initial_release_date": "2000-04-09"
+    },
+    {
+      "name": "Anniyan",
+      "genre": "Horror",
+      "directed_by": "S. Shankar",
+      "initial_release_date": "2005-06-10"
+    },
+    {
+      "name": "Arabian Nights",
+      "genre": "Family",
+      "directed_by": "Steve Barron",
+      "initial_release_date": "2000-04-30"
+    },
+    {
+      "name": "Ararat",
+      "genre": "LGBT",
+      "directed_by": "Atom Egoyan",
+      "initial_release_date": "2002-05-20"
+    },
+    {
+      "name": "Are We There Yet",
+      "genre": "Family",
+      "directed_by": "Brian Levant",
+      "initial_release_date": "2005-01-21"
+    },
+    {
+      "name": "Around the Bend",
+      "genre": "Family Drama",
+      "directed_by": "Jordan Roberts",
+      "initial_release_date": "2004-10-08"
+    },
+    {
+      "name": "Art of the Devil 2",
+      "genre": "Horror",
+      "directed_by": "Pasith Buranajan",
+      "initial_release_date": "2005-12-01"
+    },
+    {
+      "name": "Arul",
+      "genre": "Musical",
+      "directed_by": "Hari",
+      "initial_release_date": "2004-05-01"
+    },
+    {
+      "name": "Arya",
+      "genre": "Musical",
+      "directed_by": "Sukumar",
+      "initial_release_date": "2004-05-07"
+    },
+    {
+      "name": "As It Is in Heaven",
+      "genre": "Musical",
+      "directed_by": "Kay Pollak",
+      "initial_release_date": "2004-08-20"
+    },
+    {
+      "name": "Ask the Dust",
+      "genre": "Historical period drama",
+      "directed_by": "Robert Towne",
+      "initial_release_date": "2006-02-02"
+    },
+    {
+      "name": "Asylum",
+      "genre": "Film adaptation",
+      "directed_by": "David Mackenzie",
+      "initial_release_date": "2005-08-12"
+    },
+    {
+      "name": "Atanarjuat: The Fast Runner",
+      "genre": "Fantasy",
+      "directed_by": "Zacharias Kunuk",
+      "initial_release_date": "2001-05-13"
+    },
+    {
+      "name": "Autograph",
+      "genre": "Musical",
+      "directed_by": "Cheran",
+      "initial_release_date": "2004-02-14"
+    },
+    {
+      "name": "Baabul",
+      "genre": "Musical",
+      "directed_by": "Ravi Chopra",
+      "initial_release_date": "2006-12-08"
+    },
+    {
+      "name": "BaadAsssss Cinema",
+      "genre": "Indie film",
+      "directed_by": "Isaac Julien",
+      "initial_release_date": "2002-08-14"
+    },
+    {
+      "name": "Baadasssss!",
+      "genre": "Indie film",
+      "directed_by": "Mario Van Peebles",
+      "initial_release_date": "2003-09-07"
+    },
+    {
+      "name": "Babel",
+      "genre": "Indie film",
+      "directed_by": "Alejandro González Iñárritu",
+      "initial_release_date": "2006-05-23"
+    },
+    {
+      "name": "Back to School with Franklin",
+      "genre": "Family",
+      "directed_by": "Arna Selznick",
+      "initial_release_date": "2003-08-19"
+    },
+    {
+      "name": "Bad Education",
+      "genre": "Mystery",
+      "directed_by": "Pedro Almodóvar",
+      "initial_release_date": "2004-03-19"
+    },
+    {
+      "name": "Bad News Bears",
+      "genre": "Family",
+      "directed_by": "Richard Linklater",
+      "initial_release_date": "2005-07-22"
+    },
+    {
+      "name": "Badal",
+      "genre": "Musical",
+      "directed_by": "Raj Kanwar",
+      "initial_release_date": "2000-02-11"
+    },
+    {
+      "name": "Bangkok Loco",
+      "genre": "Musical",
+      "directed_by": "Pornchai Hongrattanaporn",
+      "initial_release_date": "2004-10-07"
+    },
+    {
+      "name": "Barnyard",
+      "genre": "Family",
+      "directed_by": "Steve Oedekerk",
+      "initial_release_date": "2006-08-04"
+    },
+    {
+      "name": "Batman: Dead End",
+      "genre": "Indie film",
+      "directed_by": "Sandy Collora",
+      "initial_release_date": "2003-07-19"
+    },
+    {
+      "name": "Battlefield Baseball",
+      "genre": "Martial Arts Film",
+      "directed_by": "Yūdai Yamaguchi",
+      "initial_release_date": "2003-07-19"
+    },
+    {
+      "name": "Be Kind Rewind",
+      "genre": "Farce",
+      "directed_by": "Michel Gondry",
+      "initial_release_date": "2008-01-20"
+    },
+    {
+      "name": "Be with Me",
+      "genre": "Indie film",
+      "directed_by": "Eric Khoo",
+      "initial_release_date": "2005-05-12"
+    },
+    {
+      "name": "Beastly Boyz",
+      "genre": "LGBT",
+      "directed_by": "David DeCoteau"
+    },
+    {
+      "name": "Bee Movie",
+      "genre": "Family",
+      "directed_by": "Steve Hickner",
+      "initial_release_date": "2007-10-28"
+    },
+    {
+      "name": "Bee Season",
+      "genre": "Film adaptation",
+      "directed_by": "David Siegel",
+      "initial_release_date": "2005-11-11"
+    },
+    {
+      "name": "Beer: The Movie",
+      "genre": "Indie film",
+      "directed_by": "Peter Hoare",
+      "initial_release_date": "2006-05-16"
+    },
+    {
+      "name": "Before Night Falls",
+      "genre": "LGBT",
+      "directed_by": "Julian Schnabel",
+      "initial_release_date": "2000-09-03"
+    },
+    {
+      "name": "Bellyful",
+      "genre": "Indie film",
+      "directed_by": "Melvin Van Peebles",
+      "initial_release_date": "2000-06-28"
+    },
+    {
+      "name": "Beneath",
+      "genre": "Horror",
+      "directed_by": "Dagen Merrill",
+      "initial_release_date": "2007-08-07"
+    },
+    {
+      "name": "Beneath Clouds",
+      "genre": "Indie film",
+      "directed_by": "Ivan Sen",
+      "initial_release_date": "2002-02-08"
+    },
+    {
+      "name": "Beyond Re-Animator",
+      "genre": "Horror",
+      "directed_by": "Brian Yuzna",
+      "initial_release_date": "2003-04-04"
+    },
+    {
+      "name": "Beyond the Sea",
+      "genre": "Musical",
+      "directed_by": "Kevin Spacey",
+      "initial_release_date": "2004-09-11"
+    },
+    {
+      "name": "Bhoot",
+      "genre": "Horror",
+      "directed_by": "Ram Gopal Varma",
+      "initial_release_date": "2003-05-17"
+    },
+    {
+      "name": "Big Eden",
+      "genre": "LGBT",
+      "directed_by": "Thomas Bezucha",
+      "initial_release_date": "2000-04-18"
+    },
+    {
+      "name": "Big Fat Liar",
+      "genre": "Family",
+      "directed_by": "Shawn Levy",
+      "initial_release_date": "2002-02-02"
+    },
+    {
+      "name": "Big Fish",
+      "genre": "Fantasy",
+      "directed_by": "Tim Burton",
+      "initial_release_date": "2003-12-10"
+    },
+    {
+      "name": "Bionicle 3: Web of Shadows",
+      "genre": "Fantasy",
+      "directed_by": "David Molina",
+      "initial_release_date": "2005-10-11"
+    },
+    {
+      "name": "Bionicle 2: Legends of Metru Nui",
+      "genre": "Fantasy",
+      "directed_by": "David Molina",
+      "initial_release_date": "2004-10-19"
+    },
+    {
+      "name": "Bionicle: Mask of Light: The Movie",
+      "genre": "Family",
+      "directed_by": "David Molina",
+      "initial_release_date": "2003-09-16"
+    },
+    {
+      "name": "Birth",
+      "genre": "Mystery",
+      "directed_by": "Jonathan Glazer",
+      "initial_release_date": "2004-09-08"
+    },
+    {
+      "name": "Bitter Jester",
+      "genre": "Indie film",
+      "directed_by": "Maija DiGiorgio",
+      "initial_release_date": "2003-02-26"
+    },
+    {
+      "name": "Black",
+      "genre": "Family",
+      "directed_by": "Sanjay Leela Bhansali",
+      "initial_release_date": "2005-02-04"
+    },
+    {
+      "name": "Black Cloud",
+      "genre": "Indie film",
+      "directed_by": "Ricky Schroder",
+      "initial_release_date": "2004-04-30"
+    },
+    {
+      "name": "Bless the Child",
+      "genre": "Horror",
+      "directed_by": "Chuck Russell",
+      "initial_release_date": "2000-08-11"
+    },
+    {
+      "name": "Blood Work",
+      "genre": "Mystery",
+      "directed_by": "Clint Eastwood",
+      "initial_release_date": "2002-08-09"
+    },
+    {
+      "name": "BloodRayne",
+      "genre": "Horror",
+      "directed_by": "Uwe Boll",
+      "initial_release_date": "2005-10-23"
+    },
+    {
+      "name": "Blue Car",
+      "genre": "Indie film",
+      "directed_by": "Karen Moncrieff",
+      "initial_release_date": "2003-05-02"
+    },
+    {
+      "name": "Blue Milk",
+      "genre": "Indie film",
+      "directed_by": "William Grammer",
+      "initial_release_date": "2006-06-20"
+    },
+    {
+      "name": "Blue State",
+      "genre": "Indie film",
+      "directed_by": "Marshall Lewy"
+    },
+    {
+      "name": "Boa vs. Python",
+      "genre": "Horror",
+      "directed_by": "David Flores",
+      "initial_release_date": "2004-05-24"
+    },
+    {
+      "name": "Bolletjes Blues",
+      "genre": "Musical",
+      "directed_by": "Brigit Hillenius",
+      "initial_release_date": "2006-03-23"
+    },
+    {
+      "name": "Bommarillu",
+      "genre": "Musical",
+      "directed_by": "Bhaskar",
+      "initial_release_date": "2006-08-09"
+    },
+    {
+      "name": "Bones",
+      "genre": "Horror",
+      "directed_by": "Ernest R. Dickerson",
+      "initial_release_date": "2001-10-26"
+    },
+    {
+      "name": "Boogeyman",
+      "genre": "Horror",
+      "directed_by": "Stephen T. Kay",
+      "initial_release_date": "2005-02-04"
+    },
+    {
+      "name": "Book of Love",
+      "genre": "Indie film",
+      "directed_by": "Alan Brown",
+      "initial_release_date": "2004-01-18"
+    },
+    {
+      "name": "Book of Shadows: Blair Witch 2",
+      "genre": "Horror",
+      "directed_by": "Joe Berlinger",
+      "initial_release_date": "2000-10-27"
+    },
+    {
+      "name": "Boss",
+      "genre": "Musical",
+      "directed_by": "V.N. Aditya",
+      "initial_release_date": "2006-09-27"
+    },
+    {
+      "name": "Boss'n Up",
+      "genre": "Musical",
+      "directed_by": "Dylan C. Brown",
+      "initial_release_date": "2005-06-01"
+    },
+    {
+      "name": "Bosta",
+      "genre": "Musical",
+      "directed_by": "Philippe Aractingi"
+    },
+    {
+      "name": "Bowling for Columbine",
+      "genre": "Indie film",
+      "directed_by": "Michael Moore",
+      "initial_release_date": "2002-05-15"
+    },
+    {
+      "name": "Boy Eats Girl",
+      "genre": "Indie film",
+      "directed_by": "Stephen Bradley",
+      "initial_release_date": "2005-04-06"
+    },
+    {
+      "name": "Boys",
+      "genre": "Musical",
+      "directed_by": "S. Shankar",
+      "initial_release_date": "2003-08-29"
+    },
+    {
+      "name": "Brain Blockers",
+      "genre": "Horror",
+      "directed_by": "Lincoln Kupchak",
+      "initial_release_date": "2007-03-15"
+    },
+    {
+      "name": "Brick",
+      "genre": "Film noir",
+      "directed_by": "Rian Johnson",
+      "initial_release_date": "2006-04-07"
+    },
+    {
+      "name": "Bride and Prejudice",
+      "genre": "Musical",
+      "directed_by": "Gurinder Chadha",
+      "initial_release_date": "2004-10-06"
+    },
+    {
+      "name": "Brigham City",
+      "genre": "Mystery",
+      "directed_by": "Richard Dutcher"
+    },
+    {
+      "name": "Bright Young Things",
+      "genre": "Indie film",
+      "directed_by": "Stephen Fry",
+      "initial_release_date": "2003-10-03"
+    },
+    {
+      "name": "Broken Allegiance",
+      "genre": "Indie film",
+      "directed_by": "Nick Hallam"
+    },
+    {
+      "name": "Broken Flowers",
+      "genre": "Mystery",
+      "directed_by": "Jim Jarmusch",
+      "initial_release_date": "2005-08-05"
+    },
+    {
+      "name": "Brooklyn Lobster",
+      "genre": "Indie film",
+      "directed_by": "Kevin Jordan",
+      "initial_release_date": "2005-09-09"
+    },
+    {
+      "name": "Brother Bear",
+      "genre": "Family",
+      "directed_by": "Aaron Blaise",
+      "initial_release_date": "2003-10-20"
+    },
+    {
+      "name": "Brother Bear 2",
+      "genre": "Family",
+      "directed_by": "Ben Gluck",
+      "initial_release_date": "2006-08-29"
+    },
+    {
+      "name": "Brotherhood of Blood",
+      "genre": "Horror",
+      "directed_by": "Michael Roesch"
+    },
+    {
+      "name": "Brotherhood of the Wolf",
+      "genre": "Martial Arts Film",
+      "directed_by": "Christophe Gans",
+      "initial_release_date": "2001-01-31"
+    },
+    {
+      "name": "Brothers of the Head",
+      "genre": "Indie film",
+      "directed_by": "Keith Fulton",
+      "initial_release_date": "2005-09-10"
+    },
+    {
+      "name": "Brown Sugar",
+      "genre": "Musical",
+      "directed_by": "Rick Famuyiwa",
+      "initial_release_date": "2002-10-05"
+    },
+    {
+      "name": "Bubba Ho-Tep",
+      "genre": "Horror",
+      "directed_by": "Don Coscarelli",
+      "initial_release_date": "2002-06-09"
+    },
+    {
+      "name": "Bulletproof Monk",
+      "genre": "Martial Arts Film",
+      "directed_by": "Paul Hunter",
+      "initial_release_date": "2003-04-16"
+    },
+    {
+      "name": "Bunny",
+      "genre": "Musical",
+      "directed_by": "V. V. Vinayak",
+      "initial_release_date": "2005-04-06"
+    },
+    {
+      "name": "Bunshinsaba",
+      "genre": "Horror",
+      "directed_by": "Ahn Byeong-ki",
+      "initial_release_date": "2004-05-14"
+    },
+    {
+      "name": "Busted Shoes and Broken Hearts: A Film About Lowlight",
+      "genre": "Indie film",
+      "directed_by": "Michael Votto"
+    },
+    {
+      "name": "Butterfly",
+      "genre": "LGBT",
+      "directed_by": "Yan Yan Mak",
+      "initial_release_date": "2004-09-04"
+    },
+    {
+      "name": "C.R.A.Z.Y.",
+      "genre": "LGBT",
+      "directed_by": "Jean-Marc Vallée",
+      "initial_release_date": "2005-05-27"
+    },
+    {
+      "name": "C.S.A.: The Confederate States of America",
+      "genre": "Mockumentary",
+      "directed_by": "Kevin Willmott"
+    },
+    {
+      "name": "Hackers Wanted",
+      "genre": "Indie film",
+      "directed_by": "Sam Bozzo"
+    },
+    {
+      "name": "Care Bears: Journey to Joke-a-lot",
+      "genre": "Musical",
+      "directed_by": "Mike Fallows",
+      "initial_release_date": "2004-10-05"
+    },
+    {
+      "name": "Sherlock: Case of Evil",
+      "genre": "Mystery",
+      "directed_by": "Graham Theakston",
+      "initial_release_date": "2002-10-25"
+    },
+    {
+      "name": "Chandramukhi",
+      "genre": "Horror",
+      "directed_by": "P. Vasu",
+      "initial_release_date": "2005-04-13"
+    },
+    {
+      "name": "Chaos",
+      "genre": "Horror",
+      "directed_by": "David DeFalco",
+      "initial_release_date": "2005-08-10"
+    },
+    {
+      "name": "Chaos and Creation at Abbey Road",
+      "genre": "Musical",
+      "directed_by": "Simon Hilton",
+      "initial_release_date": "2006-01-27"
+    },
+    {
+      "name": "Chapter 27",
+      "genre": "Indie film",
+      "directed_by": "Jarrett Schaefer",
+      "initial_release_date": "2007-01-25"
+    },
+    {
+      "name": "Charlie and the Chocolate Factory",
+      "genre": "Fantasy",
+      "directed_by": "Tim Burton",
+      "initial_release_date": "2005-07-10"
+    },
+    {
+      "name": "Charlie's Angels: Full Throttle",
+      "genre": "Martial Arts Film",
+      "directed_by": "Joseph McGinty Nichol",
+      "initial_release_date": "2003-06-18"
+    },
+    {
+      "name": "Chasing Sleep",
+      "genre": "Mystery",
+      "directed_by": "Michael Walker",
+      "initial_release_date": "2001-09-16"
+    },
+    {
+      "name": "Cheaper by the Dozen",
+      "genre": "Family",
+      "directed_by": "Shawn Levy",
+      "initial_release_date": "2003-12-25"
+    },
+    {
+      "name": "Cheaper by the Dozen 2",
+      "genre": "Family",
+      "directed_by": "Adam Shankman",
+      "initial_release_date": "2005-12-21"
+    },
+    {
+      "name": "The Farewell Tour",
+      "genre": "Music video",
+      "directed_by": "Dorina Sanchez",
+      "initial_release_date": "2003-08-26"
+    },
+    {
+      "name": "Chicago",
+      "genre": "Musical",
+      "directed_by": "Rob Marshall",
+      "initial_release_date": "2002-12-10"
+    },
+    {
+      "name": "Chicken Run",
+      "genre": "Family",
+      "directed_by": "Peter Lord",
+      "initial_release_date": "2000-06-21"
+    },
+    {
+      "name": "Children of the Corn: Revelation",
+      "genre": "Horror",
+      "directed_by": "Guy Magar",
+      "initial_release_date": "2001-10-09"
+    },
+    {
+      "name": "Children of the Living Dead",
+      "genre": "Indie film",
+      "directed_by": "Tor Ramsey"
+    },
+    {
+      "name": "Chinthamani Kolacase",
+      "genre": "Horror",
+      "directed_by": "Shaji Kailas",
+      "initial_release_date": "2006-03-31"
+    },
+    {
+      "name": "CHiPs",
+      "genre": "Musical"
+    },
+    {
+      "name": "Chromophobia",
+      "genre": "Family Drama",
+      "directed_by": "Martha Fiennes",
+      "initial_release_date": "2005-05-21"
+    },
+    {
+      "name": "Church Ball",
+      "genre": "Family",
+      "directed_by": "Kurt Hale",
+      "initial_release_date": "2006-03-17"
+    },
+    {
+      "name": "Cinderella III: A Twist in Time",
+      "genre": "Family",
+      "directed_by": "Frank Nissen",
+      "initial_release_date": "2007-02-06"
+    },
+    {
+      "name": "Clean",
+      "genre": "Music",
+      "directed_by": "Olivier Assayas",
+      "initial_release_date": "2004-03-27"
+    },
+    {
+      "name": "Coffee and Cigarettes",
+      "genre": "Music",
+      "directed_by": "Jim Jarmusch",
+      "initial_release_date": "2003-09-05"
+    },
+    {
+      "name": "Comedian",
+      "genre": "Indie film",
+      "directed_by": "Christian Charles",
+      "initial_release_date": "2002-10-11"
+    },
+    {
+      "name": "Common Ground",
+      "genre": "LGBT",
+      "directed_by": "Donna Deitch",
+      "initial_release_date": "2000-01-29"
+    },
+    {
+      "name": "Confessions of a Teenage Drama Queen",
+      "genre": "Family",
+      "directed_by": "Sara Sugarman",
+      "initial_release_date": "2004-02-17"
+    },
+    {
+      "name": "Confetti",
+      "genre": "Mockumentary",
+      "directed_by": "Debbie Isitt",
+      "initial_release_date": "2006-05-05"
+    },
+    {
+      "name": "Connie and Carla",
+      "genre": "LGBT",
+      "directed_by": "Michael Lembeck",
+      "initial_release_date": "2004-04-16"
+    },
+    {
+      "name": "Conspiracy",
+      "genre": "History",
+      "directed_by": "Frank Pierson",
+      "initial_release_date": "2001-05-19"
+    },
+    {
+      "name": "Constantine",
+      "genre": "Horror",
+      "directed_by": "Francis Lawrence",
+      "initial_release_date": "2005-02-08"
+    },
+    {
+      "name": "Cope",
+      "genre": "Horror",
+      "directed_by": "Ronald Jackson",
+      "initial_release_date": "2007-01-23"
+    },
+    {
+      "name": "Corpse Bride",
+      "genre": "Fantasy",
+      "directed_by": "Tim Burton",
+      "initial_release_date": "2005-09-07"
+    },
+    {
+      "name": "Cow Belles",
+      "genre": "Family",
+      "directed_by": "Francine McDougall",
+      "initial_release_date": "2006-03-24"
+    },
+    {
+      "name": "Coyote Ugly",
+      "genre": "Musical",
+      "directed_by": "David McNally",
+      "initial_release_date": "2000-07-31"
+    },
+    {
+      "name": "Cradle 2 the Grave",
+      "genre": "Martial Arts Film",
+      "directed_by": "Andrzej Bartkowiak",
+      "initial_release_date": "2003-02-28"
+    },
+    {
+      "name": "Cradle of Fear",
+      "genre": "Horror",
+      "directed_by": "Alex Chandon"
+    },
+    {
+      "name": "Creep",
+      "genre": "Horror",
+      "directed_by": "Christopher Smith",
+      "initial_release_date": "2004-08-10"
+    },
+    {
+      "name": "Crocodile",
+      "genre": "Horror",
+      "directed_by": "Tobe Hooper",
+      "initial_release_date": "2000-12-26"
+    },
+    {
+      "name": "Crocodile 2: Death Swamp",
+      "genre": "Horror",
+      "directed_by": "Gary Jones",
+      "initial_release_date": "2002-08-01"
+    },
+    {
+      "name": "Crossing the Bridge: The Sound of Istanbul",
+      "genre": "Musical",
+      "directed_by": "Fatih Akın",
+      "initial_release_date": "2005-06-09"
+    },
+    {
+      "name": "Crustacés et Coquillages",
+      "genre": "Musical",
+      "directed_by": "Jacques Martineau",
+      "initial_release_date": "2005-02-12"
+    },
+    {
+      "name": "Cursed",
+      "genre": "Horror",
+      "directed_by": "Wes Craven",
+      "initial_release_date": "2004-11-07"
+    },
+    {
+      "name": "Daddy",
+      "genre": "Family",
+      "directed_by": "Suresh Krissna",
+      "initial_release_date": "2001-10-04"
+    },
+    {
+      "name": "Daddy Day Care",
+      "genre": "Family",
+      "directed_by": "Steve Carr",
+      "initial_release_date": "2003-05-04"
+    },
+    {
+      "name": "Dancer in the Dark",
+      "genre": "Musical",
+      "directed_by": "Lars von Trier",
+      "initial_release_date": "2000-05-17"
+    },
+    {
+      "name": "Daniel Amos Live in Anaheim 1985",
+      "genre": "Music video",
+      "directed_by": "Dave Perry"
+    },
+    {
+      "name": "Dark Harvest",
+      "genre": "Horror",
+      "directed_by": "Paul Moore, Jr."
+    },
+    {
+      "name": "Darkness",
+      "genre": "Horror",
+      "directed_by": "Jaume Balagueró",
+      "initial_release_date": "2002-10-03"
+    },
+    {
+      "name": "Darna Mana Hai",
+      "genre": "Horror",
+      "directed_by": "Prawaal Raman",
+      "initial_release_date": "2003-07-25"
+    },
+    {
+      "name": "Darna Zaroori Hai",
+      "genre": "Horror",
+      "directed_by": "Ram Gopal Varma",
+      "initial_release_date": "2006-04-28"
+    },
+    {
+      "name": "Darth Vader's Psychic Hotline",
+      "genre": "Indie film",
+      "directed_by": "John E. Hudgens",
+      "initial_release_date": "2002-04-16"
+    },
+    {
+      "name": "David Gilmour in Concert",
+      "genre": "Music video",
+      "directed_by": "David Mallet"
+    },
+    {
+      "name": "Dawn of the Dead",
+      "genre": "Horror",
+      "directed_by": "Zack Snyder",
+      "initial_release_date": "2004-03-10"
+    },
+    {
+      "name": "Day of the Dead 2: Contagium",
+      "genre": "Horror",
+      "directed_by": "Ana Clavell",
+      "initial_release_date": "2005-10-18"
+    },
+    {
+      "name": "Day Zero",
+      "genre": "Indie film",
+      "directed_by": "Bryan Gunnar Cole",
+      "initial_release_date": "2007-11-02"
+    },
+    {
+      "name": "De-Lovely",
+      "genre": "Musical",
+      "directed_by": "Irwin Winkler",
+      "initial_release_date": "2004-05-22"
+    },
+    {
+      "name": "Dead &amp; Breakfast",
+      "genre": "Horror",
+      "directed_by": "Matthew Leutwyler",
+      "initial_release_date": "2004-03-19"
+    },
+    {
+      "name": "Dead Birds",
+      "genre": "Horror",
+      "directed_by": "Alex Turner",
+      "initial_release_date": "2005-03-15"
+    },
+    {
+      "name": "Dead End",
+      "genre": "Horror",
+      "directed_by": "Jean-Baptiste Andrea",
+      "initial_release_date": "2003-01-30"
+    },
+    {
+      "name": "Dead Friend",
+      "genre": "Horror",
+      "directed_by": "Kim Tae-kyeong",
+      "initial_release_date": "2004-06-18"
+    },
+    {
+      "name": "Dear Frankie",
+      "genre": "Indie film",
+      "directed_by": "Shona Auerbach",
+      "initial_release_date": "2004-05-04"
+    },
+    {
+      "name": "Dear Wendy",
+      "genre": "Indie film",
+      "directed_by": "Thomas Vinterberg",
+      "initial_release_date": "2004-05-16"
+    },
+    {
+      "name": "Death Walks the Streets",
+      "genre": "Indie film",
+      "directed_by": "James Zahn",
+      "initial_release_date": "2008-06-26"
+    },
+    {
+      "name": "Deathwatch",
+      "genre": "Horror",
+      "directed_by": "Michael J. Bassett",
+      "initial_release_date": "2002-10-06"
+    },
+    {
+      "name": "Demonium",
+      "genre": "Horror",
+      "directed_by": "Andreas Schnaas",
+      "initial_release_date": "2001-08-25"
+    },
+    {
+      "name": "Destiny's Child: Live In Atlana",
+      "genre": "Music",
+      "directed_by": "Julia Knowles",
+      "initial_release_date": "2006-03-27"
+    },
+    {
+      "name": "Dhadkan",
+      "genre": "Musical",
+      "directed_by": "Dharmesh Darshan",
+      "initial_release_date": "2000-08-11"
+    },
+    {
+      "name": "Dhool",
+      "genre": "Musical",
+      "directed_by": "Dharani",
+      "initial_release_date": "2003-01-10"
+    },
+    {
+      "name": "Dil Hai Tumhara",
+      "genre": "Family",
+      "directed_by": "Kundan Shah",
+      "initial_release_date": "2002-09-06"
+    },
+    {
+      "name": "Dil Ne Jise Apna Kahaa",
+      "genre": "Musical",
+      "directed_by": "Atul Agnihotri",
+      "initial_release_date": "2004-09-10"
+    },
+    {
+      "name": "Dirty Dancing: Havana Nights",
+      "genre": "Musical",
+      "directed_by": "Guy Ferland",
+      "initial_release_date": "2004-02-27"
+    },
+    {
+      "name": "Dirty Deeds",
+      "genre": "Historical period drama",
+      "directed_by": "David Caesar",
+      "initial_release_date": "2002-07-18"
+    },
+    {
+      "name": "Dirty Love",
+      "genre": "Indie film",
+      "directed_by": "John Mallory Asher",
+      "initial_release_date": "2005-09-23"
+    },
+    {
+      "name": "District 13",
+      "genre": "Martial Arts Film",
+      "directed_by": "Pierre Morel",
+      "initial_release_date": "2004-11-10"
+    },
+    {
+      "name": "Divine Secrets of the Ya-Ya Sisterhood",
+      "genre": "Film adaptation",
+      "directed_by": "Callie Khouri",
+      "initial_release_date": "2002-06-03"
+    },
+    {
+      "name": "Dog Soldiers",
+      "genre": "Horror",
+      "directed_by": "Neil Marshall",
+      "initial_release_date": "2002-03-22"
+    },
+    {
+      "name": "The Doll Master",
+      "genre": "Horror",
+      "directed_by": "Jeong Yong-Gi",
+      "initial_release_date": "2004-07-30"
+    },
+    {
+      "name": "Dominion: Prequel to the Exorcist",
+      "genre": "Horror",
+      "directed_by": "Paul Schrader",
+      "initial_release_date": "2005-05-20"
+    },
+    {
+      "name": "Double Teamed",
+      "genre": "Family",
+      "directed_by": "Duwayne Dunham",
+      "initial_release_date": "2002-01-18"
+    },
+    {
+      "name": "Down and Derby",
+      "genre": "Family",
+      "directed_by": "Eric Hendershot",
+      "initial_release_date": "2005-04-15"
+    },
+    {
+      "name": "Down in the Valley",
+      "genre": "Indie film",
+      "directed_by": "David Jacobson",
+      "initial_release_date": "2005-05-13"
+    },
+    {
+      "name": "Down to Earth",
+      "genre": "Fantasy",
+      "directed_by": "Chris Weitz",
+      "initial_release_date": "2001-02-12"
+    },
+    {
+      "name": "Dr. Dolittle 2",
+      "genre": "Family",
+      "directed_by": "Steve Carr",
+      "initial_release_date": "2001-06-19"
+    },
+    {
+      "name": "Dr. Dolittle 3",
+      "genre": "Family",
+      "directed_by": "Rich Thorne",
+      "initial_release_date": "2006-04-25"
+    },
+    {
+      "name": "Dragon Tiger Gate",
+      "genre": "Martial Arts Film",
+      "directed_by": "Wilson Yip",
+      "initial_release_date": "2006-07-27"
+    },
+    {
+      "name": "Drake &amp; Josh Go Hollywood",
+      "genre": "Family",
+      "directed_by": "Adam Weissman",
+      "initial_release_date": "2006-01-06"
+    },
+    {
+      "name": "Dreamer",
+      "genre": "Family",
+      "directed_by": "John Gatins",
+      "initial_release_date": "2005-09-10"
+    },
+    {
+      "name": "Dreaming of Julia",
+      "genre": "Indie film",
+      "directed_by": "Juan Gerard",
+      "initial_release_date": "2003-10-24"
+    },
+    {
+      "name": "Drugstore Girl",
+      "genre": "Japanese Movies",
+      "directed_by": "Katsuhide Motoki"
+    },
+    {
+      "name": "Dude, Where's My Car?",
+      "genre": "Mystery",
+      "directed_by": "Danny Leiner",
+      "initial_release_date": "2000-12-10"
+    },
+    {
+      "name": "Dude, Where's the Party?",
+      "genre": "Indie film",
+      "directed_by": "Benny Mathews"
+    },
+    {
+      "name": "Duets",
+      "genre": "Musical",
+      "directed_by": "Bruce Paltrow",
+      "initial_release_date": "2000-09-09"
+    },
+    {
+      "name": "Dumplings",
+      "genre": "Horror",
+      "directed_by": "Fruit Chan",
+      "initial_release_date": "2004-08-04"
+    },
+    {
+      "name": "Eight Legged Freaks",
+      "genre": "Horror",
+      "directed_by": "Ellory Elkayem",
+      "initial_release_date": "2002-05-30"
+    },
+    {
+      "name": "Eklavya: The Royal Guard",
+      "genre": "Historical drama",
+      "directed_by": "Vidhu Vinod Chopra",
+      "initial_release_date": "2007-02-16"
+    },
+    {
+      "name": "Lost Embrace",
+      "genre": "Indie film",
+      "directed_by": "Daniel Burman",
+      "initial_release_date": "2004-02-09"
+    },
+    {
+      "name": "El juego de Arcibel",
+      "genre": "Indie film",
+      "directed_by": "Alberto Lecchi",
+      "initial_release_date": "2003-05-29"
+    },
+    {
+      "name": "El Muerto",
+      "genre": "Indie film",
+      "directed_by": "Brian Cox"
+    },
+    {
+      "name": "The Hairy Tooth Fairy",
+      "genre": "Fantasy",
+      "directed_by": "Juan Pablo Buscarini",
+      "initial_release_date": "2006-07-13"
+    },
+    {
+      "name": "Daft Punk's Electroma",
+      "genre": "Indie film",
+      "directed_by": "Thomas Bangalter",
+      "initial_release_date": "2006-05-21"
+    },
+    {
+      "name": "Elf",
+      "genre": "Family",
+      "directed_by": "Jon Favreau",
+      "initial_release_date": "2003-10-09"
+    },
+    {
+      "name": "Enakku 20 Unakku 18",
+      "genre": "Musical",
+      "directed_by": "Jyothi Krishna",
+      "initial_release_date": "2003-12-19"
+    },
+    {
+      "name": "Enchanted",
+      "genre": "Musical",
+      "directed_by": "Kevin Lima",
+      "initial_release_date": "2007-10-20"
+    },
+    {
+      "name": "Eragon",
+      "genre": "Family",
+      "directed_by": "Stefen Fangmeier",
+      "initial_release_date": "2006-12-13"
+    },
+    {
+      "name": "Eulogy",
+      "genre": "LGBT",
+      "directed_by": "Michael Clancy",
+      "initial_release_date": "2004-10-15"
+    },
+    {
+      "name": "Everything",
+      "genre": "Music video",
+      "initial_release_date": "2005-11-22"
+    },
+    {
+      "name": "Exorcist: The Beginning",
+      "genre": "Horror",
+      "directed_by": "Renny Harlin",
+      "initial_release_date": "2004-08-18"
+    },
+    {
+      "name": "Face",
+      "genre": "Horror",
+      "directed_by": "Yoo Sang-gon",
+      "initial_release_date": "2004-06-11"
+    },
+    {
+      "name": "Fahrenheit 9/11",
+      "genre": "Indie film",
+      "directed_by": "Michael Moore",
+      "initial_release_date": "2004-05-17"
+    },
+    {
+      "name": "Family",
+      "genre": "Musical",
+      "directed_by": "Rajkumar Santoshi",
+      "initial_release_date": "2006-01-11"
+    },
+    {
+      "name": "Fantastic Four",
+      "genre": "Fantasy",
+      "directed_by": "Tim Story",
+      "initial_release_date": "2005-06-29"
+    },
+    {
+      "name": "Fantastic Four: Rise of the Silver Surfer",
+      "genre": "Fantasy",
+      "directed_by": "Tim Story",
+      "initial_release_date": "2007-06-12"
+    },
+    {
+      "name": "Eagles: Farewell 1 Tour-Live from Melbourne",
+      "genre": "Music video",
+      "directed_by": "Carol Dodds",
+      "initial_release_date": "2005-06-14"
+    },
+    {
+      "name": "Fat Albert",
+      "genre": "Family",
+      "directed_by": "Joel Zwick",
+      "initial_release_date": "2004-12-12"
+    },
+    {
+      "name": "Faust: Love of the Damned",
+      "genre": "Horror",
+      "directed_by": "Brian Yuzna",
+      "initial_release_date": "2000-10-12"
+    },
+    {
+      "name": "Fear of the Dark",
+      "genre": "Horror",
+      "directed_by": "Glen Baisley",
+      "initial_release_date": "2001-10-06"
+    },
+    {
+      "name": "FeardotCom",
+      "genre": "Horror",
+      "directed_by": "William Malone",
+      "initial_release_date": "2002-08-09"
+    },
+    {
+      "name": "Feast",
+      "genre": "Horror",
+      "directed_by": "John Gulager",
+      "initial_release_date": "2006-09-22"
+    },
+    {
+      "name": "Festival in Cannes",
+      "genre": "Mockumentary",
+      "directed_by": "Henry Jaglom",
+      "initial_release_date": "2001-11-03"
+    },
+    {
+      "name": "Fido",
+      "genre": "Horror",
+      "directed_by": "Andrew Currie",
+      "initial_release_date": "2006-09-07"
+    },
+    {
+      "name": "Film Geek",
+      "genre": "Indie film",
+      "directed_by": "James Westby",
+      "initial_release_date": "2006-02-10"
+    },
+    {
+      "name": "Final Stab",
+      "genre": "Horror",
+      "directed_by": "David DeCoteau"
+    },
+    {
+      "name": "Fluffy the English Vampire Slayer",
+      "genre": "Horror comedy",
+      "directed_by": "Henry Burrows"
+    },
+    {
+      "name": "For Your Consideration",
+      "genre": "Mockumentary",
+      "directed_by": "Christopher Guest",
+      "initial_release_date": "2006-11-17"
+    },
+    {
+      "name": "Forty Shades of Blue",
+      "genre": "Indie film",
+      "directed_by": "Ira Sachs"
+    },
+    {
+      "name": "Franklin and the Turtle Lake Treasure",
+      "genre": "Family",
+      "directed_by": "Dominique Monféry",
+      "initial_release_date": "2006-12-20"
+    },
+    {
+      "name": "Franklin and the Green Knight",
+      "genre": "Family",
+      "directed_by": "John van Bruggen",
+      "initial_release_date": "2000-10-17"
+    },
+    {
+      "name": "Franklin's Magic Christmas",
+      "genre": "Family",
+      "directed_by": "John van Bruggen",
+      "initial_release_date": "2001-11-06"
+    },
+    {
+      "name": "Freaky Friday",
+      "genre": "Family",
+      "directed_by": "Mark Waters",
+      "initial_release_date": "2003-08-04"
+    },
+    {
+      "name": "Freddy vs. Jason",
+      "genre": "Horror",
+      "directed_by": "Ronny Yu",
+      "initial_release_date": "2003-08-13"
+    },
+    {
+      "name": "Freedomland",
+      "genre": "Mystery",
+      "directed_by": "Joe Roth",
+      "initial_release_date": "2006-02-17"
+    },
+    {
+      "name": "Mr. Bean's Holiday",
+      "genre": "Family",
+      "directed_by": "Steve Bendelack",
+      "initial_release_date": "2007-03-22"
+    },
+    {
+      "name": "From Janet to Damita Jo: The Videos",
+      "genre": "Music video",
+      "directed_by": "Jonathan Dayton",
+      "initial_release_date": "2004-09-07"
+    },
+    {
+      "name": "From Justin to Kelly",
+      "genre": "Musical",
+      "directed_by": "Robert Iscove",
+      "initial_release_date": "2003-06-20"
+    },
+    {
+      "name": "FUBAR",
+      "genre": "Mockumentary",
+      "directed_by": "Michael Dowse",
+      "initial_release_date": "2002-01-01"
+    },
+    {
+      "name": "Fuckland",
+      "genre": "Indie film",
+      "directed_by": "José Luis Márques",
+      "initial_release_date": "2000-09-21"
+    },
+    {
+      "name": "Full-Court Miracle",
+      "genre": "Family",
+      "directed_by": "Stuart Gillard",
+      "initial_release_date": "2003-11-21"
+    },
+    {
+      "name": "Funny Ha Ha",
+      "genre": "Indie film",
+      "directed_by": "Andrew Bujalski"
+    },
+    {
+      "name": "G-Sale",
+      "genre": "Mockumentary",
+      "directed_by": "Randy Nargi",
+      "initial_release_date": "2005-11-15"
+    },
+    {
+      "name": "Game 6",
+      "genre": "Indie film",
+      "directed_by": "Michael Hoffman",
+      "initial_release_date": "2006-03-10"
+    },
+    {
+      "name": "Expendable",
+      "genre": "Indie film",
+      "directed_by": "Nathaniel Barker",
+      "initial_release_date": "2004-06-14"
+    },
+    {
+      "name": "Garçon stupide",
+      "genre": "LGBT",
+      "directed_by": "Lionel Baier",
+      "initial_release_date": "2004-03-10"
+    },
+    {
+      "name": "Garfield: A Tail of Two Kitties",
+      "genre": "Family",
+      "directed_by": "Tim Hill",
+      "initial_release_date": "2006-06-15"
+    },
+    {
+      "name": "Gerry",
+      "genre": "Indie film",
+      "directed_by": "Gus Van Sant",
+      "initial_release_date": "2003-02-14"
+    },
+    {
+      "name": "Get a Clue",
+      "genre": "Mystery",
+      "directed_by": "Maggie Greenwald Mansfield",
+      "initial_release_date": "2002-06-28"
+    },
+    {
+      "name": "Get Over It",
+      "genre": "Musical",
+      "directed_by": "Tommy O'Haver",
+      "initial_release_date": "2001-03-09"
+    },
+    {
+      "name": "Get Up!",
+      "genre": "Musical",
+      "directed_by": "Kazuyuki Izutsu"
+    },
+    {
+      "name": "Getting There: Sweet 16 and Licensed to Drive",
+      "genre": "Family",
+      "directed_by": "Steve Purcell",
+      "initial_release_date": "2002-06-11"
+    },
+    {
+      "name": "Gharshana",
+      "genre": "Mystery",
+      "directed_by": "Gautham Menon",
+      "initial_release_date": "2004-07-30"
+    },
+    {
+      "name": "Ghost Game",
+      "genre": "Horror comedy",
+      "directed_by": "Joe Knee",
+      "initial_release_date": "2005-09-01"
+    },
+    {
+      "name": "Ghost House",
+      "genre": "Horror",
+      "directed_by": "Kim Sang-jin",
+      "initial_release_date": "2004-09-17"
+    },
+    {
+      "name": "Ghost Lake",
+      "genre": "Horror",
+      "directed_by": "Jay Woelfel",
+      "initial_release_date": "2005-05-17"
+    },
+    {
+      "name": "Ghost Ship",
+      "genre": "Horror",
+      "directed_by": "Steve Beck",
+      "initial_release_date": "2002-10-22"
+    },
+    {
+      "name": "Ghost World",
+      "genre": "Indie film",
+      "directed_by": "Terry Zwigoff",
+      "initial_release_date": "2001-06-16"
+    },
+    {
+      "name": "Gigantic (A Tale of Two Johns)",
+      "genre": "Indie film",
+      "directed_by": "A. J. Schnack",
+      "initial_release_date": "2003-03-10"
+    },
+    {
+      "name": "Gladiator",
+      "genre": "Historical drama",
+      "directed_by": "Ridley Scott",
+      "initial_release_date": "2000-05-01"
+    },
+    {
+      "name": "Glitter",
+      "genre": "Musical",
+      "directed_by": "Vondie Curtis-Hall",
+      "initial_release_date": "2001-09-21"
+    },
+    {
+      "name": "Go Figure",
+      "genre": "Family",
+      "directed_by": "Francine McDougall",
+      "initial_release_date": "2005-06-10"
+    },
+    {
+      "name": "Godzilla 3D to the MAX",
+      "genre": "Horror",
+      "directed_by": "Keith Melton",
+      "initial_release_date": "2007-09-12"
+    },
+    {
+      "name": "Godzilla Against Mechagodzilla",
+      "genre": "Monster",
+      "directed_by": "Masaaki Tezuka",
+      "initial_release_date": "2002-12-15"
+    },
+    {
+      "name": "Godzilla vs. Megaguirus",
+      "genre": "Monster",
+      "directed_by": "Masaaki Tezuka",
+      "initial_release_date": "2000-11-03"
+    },
+    {
+      "name": "Godzilla: Tokyo SOS",
+      "genre": "Monster",
+      "directed_by": "Masaaki Tezuka",
+      "initial_release_date": "2003-11-03"
+    },
+    {
+      "name": "Godzilla: Final Wars",
+      "genre": "Fantasy",
+      "directed_by": "Ryuhei Kitamura",
+      "initial_release_date": "2004-11-29"
+    },
+    {
+      "name": "Going to the Mat",
+      "genre": "Family",
+      "directed_by": "Stuart Gillard",
+      "initial_release_date": "2004-03-19"
+    },
+    {
+      "name": "Golmaal: Fun Unlimited",
+      "genre": "Musical",
+      "directed_by": "Rohit Shetty",
+      "initial_release_date": "2006-07-14"
+    },
+    {
+      "name": "Gosford Park",
+      "genre": "Mystery",
+      "directed_by": "Robert Altman",
+      "initial_release_date": "2001-11-07"
+    },
+    {
+      "name": "Gozu",
+      "genre": "Horror",
+      "directed_by": "Takashi Miike",
+      "initial_release_date": "2003-07-12"
+    },
+    {
+      "name": "Grayson",
+      "genre": "Indie film",
+      "directed_by": "John Fiorella",
+      "initial_release_date": "2004-07-20"
+    },
+    {
+      "name": "H. G. Wells' The War of the Worlds",
+      "genre": "Indie film",
+      "directed_by": "Timothy Hines",
+      "initial_release_date": "2005-06-14"
+    },
+    {
+      "name": "H. G. Wells' War of the Worlds",
+      "genre": "Indie film",
+      "directed_by": "David Michael Latt",
+      "initial_release_date": "2005-06-28"
+    },
+    {
+      "name": "Haggard: The Movie",
+      "genre": "Indie film",
+      "directed_by": "Bam Margera",
+      "initial_release_date": "2003-06-24"
+    },
+    {
+      "name": "Hairspray",
+      "genre": "Musical",
+      "directed_by": "Adam Shankman",
+      "initial_release_date": "2007-07-13"
+    },
+    {
+      "name": "Half-Life",
+      "genre": "Fantasy",
+      "directed_by": "Jennifer Phang"
+    },
+    {
+      "name": "Halloweentown High",
+      "genre": "Fantasy",
+      "directed_by": "Mark A.Z. Dippé",
+      "initial_release_date": "2004-10-08"
+    },
+    {
+      "name": "Halloweentown II: Kalabar's Revenge",
+      "genre": "Fantasy",
+      "directed_by": "Mary Lambert",
+      "initial_release_date": "2001-10-12"
+    },
+    {
+      "name": "Return to Halloweentown",
+      "genre": "Family",
+      "directed_by": "David Jackson",
+      "initial_release_date": "2006-10-20"
+    },
+    {
+      "name": "Happily N'Ever After",
+      "genre": "Fantasy",
+      "directed_by": "Paul J. Bolger",
+      "initial_release_date": "2006-12-16"
+    },
+    {
+      "name": "Happy Endings",
+      "genre": "LGBT",
+      "directed_by": "Don Roos",
+      "initial_release_date": "2005-01-20"
+    },
+    {
+      "name": "Happy Feet",
+      "genre": "Family",
+      "directed_by": "George Miller",
+      "initial_release_date": "2006-11-16"
+    },
+    {
+      "name": "Har Dil Jo Pyar Karega",
+      "genre": "Musical",
+      "directed_by": "Raj Kanwar",
+      "initial_release_date": "2000-07-24"
+    },
+    {
+      "name": "Harry Potter and the Goblet of Fire",
+      "genre": "Family",
+      "directed_by": "Mike Newell",
+      "initial_release_date": "2005-11-06"
+    },
+    {
+      "name": "Harry Potter and the Order of the Phoenix",
+      "genre": "Family",
+      "directed_by": "David Yates",
+      "initial_release_date": "2007-06-28"
+    }
+  ]
+}

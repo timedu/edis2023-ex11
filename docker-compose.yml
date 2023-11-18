@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+
+  app:
+    image: edis-python:round-11
+    build: .
+    command: bash
+    environment:
+      - TODO_FOLDER=${TODO_FOLDER}
+    volumes:
+      - ./app:/home/app
+    profiles:
+      - do-not-start-by-default
+
+  mqtt:
+    image: eclipse-mosquitto:2
+    hostname: mqtt-container
+    volumes:
+      - ./mosquitto/mosquitto.conf:/mosquitto/config/mosquitto.conf:ro

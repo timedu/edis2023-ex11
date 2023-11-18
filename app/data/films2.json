@@ -1,0 +1,2508 @@
+{
+  "films": [
+    {
+      "name": "2046",
+      "genre": "Romance Film",
+      "directed_by": "Wong Kar-wai",
+      "initial_release_date": "2004-05-20"
+    },
+    {
+      "name": "2 Fast 2 Furious",
+      "genre": "Thriller",
+      "directed_by": "John Singleton",
+      "initial_release_date": "2003-06-03"
+    },
+    {
+      "name": "100 Girls",
+      "genre": "Romantic comedy",
+      "directed_by": "Michael Davis",
+      "initial_release_date": "2001-09-25"
+    },
+    {
+      "name": "40 Days and 40 Nights",
+      "genre": "Romance Film",
+      "directed_by": "Michael Lehmann",
+      "initial_release_date": "2002-03-01"
+    },
+    {
+      "name": "3: The Dale Earnhardt Story",
+      "genre": "Sports",
+      "directed_by": "Russell Mulcahy",
+      "initial_release_date": "2004-12-11"
+    },
+    {
+      "name": "61*",
+      "genre": "Sports",
+      "directed_by": "Billy Crystal",
+      "initial_release_date": "2001-04-28"
+    },
+    {
+      "name": "7 Seconds",
+      "genre": "Thriller",
+      "directed_by": "Simon Fellows",
+      "initial_release_date": "2005-06-28"
+    },
+    {
+      "name": "28 Days Later",
+      "genre": "Science Fiction",
+      "directed_by": "Danny Boyle",
+      "initial_release_date": "2002-11-01"
+    },
+    {
+      "name": "21 Grams",
+      "genre": "Thriller",
+      "directed_by": "Alejandro González Iñárritu",
+      "initial_release_date": "2003-09-05"
+    },
+    {
+      "name": "The 9th Company",
+      "genre": "War film",
+      "directed_by": "Fedor Bondarchuk",
+      "initial_release_date": "2005-09-29"
+    },
+    {
+      "name": "12B",
+      "genre": "Romance Film",
+      "directed_by": "Jeeva",
+      "initial_release_date": "2001-09-28"
+    },
+    {
+      "name": "2009 Lost Memories",
+      "genre": "Thriller",
+      "directed_by": "Lee Si-myung",
+      "initial_release_date": "2002-02-01"
+    },
+    {
+      "name": "16 Blocks",
+      "genre": "Thriller",
+      "directed_by": "Richard Donner",
+      "initial_release_date": "2006-03-01"
+    },
+    {
+      "name": "15 Minutes",
+      "genre": "Thriller",
+      "directed_by": "John Herzfeld",
+      "initial_release_date": "2001-03-01"
+    },
+    {
+      "name": "50 First Dates",
+      "genre": "Romantic comedy",
+      "directed_by": "Peter Segal",
+      "initial_release_date": "2004-02-13"
+    },
+    {
+      "name": "20 Fingers",
+      "genre": "World cinema",
+      "directed_by": "Mania Akbari",
+      "initial_release_date": "2004-09-01"
+    },
+    {
+      "name": "36 China Town",
+      "genre": "Thriller",
+      "directed_by": "Abbas Burmawalla",
+      "initial_release_date": "2006-04-21"
+    },
+    {
+      "name": "7 mujeres, 1 homosexual y Carlos",
+      "genre": "Romantic comedy",
+      "directed_by": "Rene Bueno",
+      "initial_release_date": "2004-06-01"
+    },
+    {
+      "name": "88 Minutes",
+      "genre": "Thriller",
+      "directed_by": "Jon Avnet",
+      "initial_release_date": "2007-02-14"
+    },
+    {
+      "name": "5x2",
+      "genre": "Romance Film",
+      "directed_by": "François Ozon",
+      "initial_release_date": "2004-09-01"
+    },
+    {
+      "name": "28 Weeks Later",
+      "genre": "Science Fiction",
+      "directed_by": "Juan Carlos Fresnadillo",
+      "initial_release_date": "2007-04-26"
+    },
+    {
+      "name": "13 Going on 30",
+      "genre": "Romantic comedy",
+      "directed_by": "Gary Winick",
+      "initial_release_date": "2004-04-14"
+    },
+    {
+      "name": "A Cinderella Story",
+      "genre": "Teen film",
+      "directed_by": "Mark Rosman",
+      "initial_release_date": "2004-07-10"
+    },
+    {
+      "name": "A Common Thread",
+      "genre": "Romance Film",
+      "directed_by": "Éléonore Faucher",
+      "initial_release_date": "2004-05-14"
+    },
+    {
+      "name": "A Dirty Shame",
+      "genre": "Sex comedy",
+      "directed_by": "John Waters",
+      "initial_release_date": "2004-09-12"
+    },
+    {
+      "name": "A Good Year",
+      "genre": "Romantic comedy",
+      "directed_by": "Ridley Scott",
+      "initial_release_date": "2006-09-09"
+    },
+    {
+      "name": "A History of Violence",
+      "genre": "Thriller",
+      "directed_by": "David Cronenberg",
+      "initial_release_date": "2005-05-16"
+    },
+    {
+      "name": "A Knight's Tale",
+      "genre": "Romantic comedy",
+      "directed_by": "Brian Helgeland",
+      "initial_release_date": "2001-03-08"
+    },
+    {
+      "name": "A Little Trip to Heaven",
+      "genre": "Thriller",
+      "directed_by": "Baltasar Kormákur",
+      "initial_release_date": "2005-12-26"
+    },
+    {
+      "name": "A Lot like Love",
+      "genre": "Romantic comedy",
+      "directed_by": "Nigel Cole",
+      "initial_release_date": "2005-04-21"
+    },
+    {
+      "name": "A Midsummer Night's Rave",
+      "genre": "Romance Film",
+      "directed_by": "Gil Cates Jr."
+    },
+    {
+      "name": "A Perfect Day",
+      "genre": "World cinema",
+      "directed_by": "Khalil Joreige"
+    },
+    {
+      "name": "A Scanner Darkly",
+      "genre": "Science Fiction",
+      "directed_by": "Richard Linklater",
+      "initial_release_date": "2006-07-07"
+    },
+    {
+      "name": "A Shot in the West",
+      "genre": "Western",
+      "directed_by": "Bob Kelly",
+      "initial_release_date": "2006-07-16"
+    },
+    {
+      "name": "A Sound of Thunder",
+      "genre": "Science Fiction",
+      "directed_by": "Peter Hyams",
+      "initial_release_date": "2005-05-15"
+    },
+    {
+      "name": "A Time for Drunken Horses",
+      "genre": "World cinema",
+      "directed_by": "Bahman Ghobadi"
+    },
+    {
+      "name": "À ton image",
+      "genre": "Thriller",
+      "directed_by": "Aruna Villiers",
+      "initial_release_date": "2004-05-26"
+    },
+    {
+      "name": "A Very Long Engagement",
+      "genre": "War film",
+      "directed_by": "Jean-Pierre Jeunet",
+      "initial_release_date": "2004-10-27"
+    },
+    {
+      "name": "A.I. Artificial Intelligence",
+      "genre": "Science Fiction",
+      "directed_by": "Steven Spielberg",
+      "initial_release_date": "2001-06-26"
+    },
+    {
+      "name": "Aap Ki Khatir",
+      "genre": "Romance Film",
+      "directed_by": "Dharmesh Darshan",
+      "initial_release_date": "2006-08-25"
+    },
+    {
+      "name": "Aaru",
+      "genre": "Thriller",
+      "directed_by": "Hari",
+      "initial_release_date": "2005-12-09"
+    },
+    {
+      "name": "Aata",
+      "genre": "Romance Film",
+      "directed_by": "V.N. Aditya",
+      "initial_release_date": "2007-05-09"
+    },
+    {
+      "name": "Aadhi",
+      "genre": "Thriller",
+      "directed_by": "Ramana",
+      "initial_release_date": "2006-01-14"
+    },
+    {
+      "name": "Aaytha Ezhuthu",
+      "genre": "Thriller",
+      "directed_by": "Mani Ratnam",
+      "initial_release_date": "2004-05-21"
+    },
+    {
+      "name": "About a Boy",
+      "genre": "Romance Film",
+      "directed_by": "Chris Weitz",
+      "initial_release_date": "2002-04-26"
+    },
+    {
+      "name": "Accepted",
+      "genre": "Teen film",
+      "directed_by": "Steve Pink",
+      "initial_release_date": "2006-08-18"
+    },
+    {
+      "name": "Across the Hall",
+      "genre": "Short Film",
+      "directed_by": "Alex Merkin"
+    },
+    {
+      "name": "Adam &amp; Steve",
+      "genre": "Romance Film",
+      "directed_by": "Craig Chester",
+      "initial_release_date": "2005-04-24"
+    },
+    {
+      "name": "Address Unknown",
+      "genre": "War film",
+      "directed_by": "Kim Ki-duk",
+      "initial_release_date": "2001-06-02"
+    },
+    {
+      "name": "Ae Fond Kiss...",
+      "genre": "Romance Film",
+      "directed_by": "Ken Loach",
+      "initial_release_date": "2004-02-13"
+    },
+    {
+      "name": "Aetbaar",
+      "genre": "Thriller",
+      "directed_by": "Vikram Bhatt",
+      "initial_release_date": "2004-01-23"
+    },
+    {
+      "name": "Mother of Mine",
+      "genre": "War film",
+      "directed_by": "Klaus Härö",
+      "initial_release_date": "2005-08-25"
+    },
+    {
+      "name": "Aitraaz",
+      "genre": "Trial drama",
+      "directed_by": "Abbas Burmawalla",
+      "initial_release_date": "2004-11-12"
+    },
+    {
+      "name": "Aakasha Gopuram",
+      "genre": "Romance Film",
+      "directed_by": "K.P.Kumaran",
+      "initial_release_date": "2008-08-22"
+    },
+    {
+      "name": "Aksar",
+      "genre": "Romance Film",
+      "directed_by": "Anant Mahadevan",
+      "initial_release_date": "2006-02-03"
+    },
+    {
+      "name": "Different",
+      "genre": "Thriller",
+      "directed_by": "Ashu Trikha",
+      "initial_release_date": "2006-06-16"
+    },
+    {
+      "name": "Wave",
+      "genre": "Romance Film",
+      "directed_by": "Vikram Kumar",
+      "initial_release_date": "2003-09-10"
+    },
+    {
+      "name": "Alatriste",
+      "genre": "Thriller",
+      "directed_by": "Agustín Díaz Yanes",
+      "initial_release_date": "2006-09-01"
+    },
+    {
+      "name": "Alex &amp; Emma",
+      "genre": "Romantic comedy",
+      "directed_by": "Rob Reiner",
+      "initial_release_date": "2003-06-20"
+    },
+    {
+      "name": "Alexander",
+      "genre": "War film",
+      "directed_by": "Oliver Stone",
+      "initial_release_date": "2004-11-16"
+    },
+    {
+      "name": "Alexandra's Project",
+      "genre": "Thriller",
+      "directed_by": "Rolf de Heer"
+    },
+    {
+      "name": "Alfie",
+      "genre": "Sex comedy",
+      "directed_by": "Charles Shyer",
+      "initial_release_date": "2004-10-22"
+    },
+    {
+      "name": "Ali G Indahouse",
+      "genre": "Stoner film",
+      "directed_by": "Mark Mylod",
+      "initial_release_date": "2002-03-22"
+    },
+    {
+      "name": "Alien Autopsy",
+      "genre": "Science Fiction",
+      "directed_by": "Jonny Campbell",
+      "initial_release_date": "2006-04-07"
+    },
+    {
+      "name": "Alien vs. Predator",
+      "genre": "Science Fiction",
+      "directed_by": "Paul W. S. Anderson",
+      "initial_release_date": "2004-08-12"
+    },
+    {
+      "name": "AVPR: Aliens vs Predator - Requiem",
+      "genre": "Science Fiction",
+      "directed_by": "Colin Strause",
+      "initial_release_date": "2007-12-25"
+    },
+    {
+      "name": "Alive",
+      "genre": "Science Fiction",
+      "directed_by": "Ryuhei Kitamura",
+      "initial_release_date": "2002-09-12"
+    },
+    {
+      "name": "All I Want",
+      "genre": "Romantic comedy",
+      "directed_by": "Jeffrey Porter",
+      "initial_release_date": "2002-09-10"
+    },
+    {
+      "name": "All the King's Men",
+      "genre": "Political drama",
+      "directed_by": "Steven Zaillian",
+      "initial_release_date": "2006-09-10"
+    },
+    {
+      "name": "All the Real Girls",
+      "genre": "Romance Film",
+      "directed_by": "David Gordon Green",
+      "initial_release_date": "2003-01-19"
+    },
+    {
+      "name": "Almost: Round Three",
+      "genre": "Sports",
+      "directed_by": "Matt Hill",
+      "initial_release_date": "2004-11-10"
+    },
+    {
+      "name": "Alone in the Dark",
+      "genre": "Science Fiction",
+      "directed_by": "Uwe Boll",
+      "initial_release_date": "2005-01-28"
+    },
+    {
+      "name": "Along Came Polly",
+      "genre": "Romantic comedy",
+      "directed_by": "John Hamburg",
+      "initial_release_date": "2004-01-12"
+    },
+    {
+      "name": "Amélie",
+      "genre": "Romance Film",
+      "directed_by": "Jean-Pierre Jeunet",
+      "initial_release_date": "2001-04-25"
+    },
+    {
+      "name": "America's Sweethearts",
+      "genre": "Romantic comedy",
+      "directed_by": "Joe Roth",
+      "initial_release_date": "2001-07-17"
+    },
+    {
+      "name": "American Dreamz",
+      "genre": "Political cinema",
+      "directed_by": "Paul Weitz",
+      "initial_release_date": "2006-04-21"
+    },
+    {
+      "name": "American Outlaws",
+      "genre": "Western",
+      "directed_by": "Les Mayfield",
+      "initial_release_date": "2001-08-17"
+    },
+    {
+      "name": "American Pie 2",
+      "genre": "Romance Film",
+      "directed_by": "James B. Rogers",
+      "initial_release_date": "2001-08-06"
+    },
+    {
+      "name": "American Wedding",
+      "genre": "Romance Film",
+      "directed_by": "Jesse Dylan",
+      "initial_release_date": "2003-07-24"
+    },
+    {
+      "name": "Americano",
+      "genre": "Romance Film",
+      "directed_by": "Kevin Noland",
+      "initial_release_date": "2005-01-07"
+    },
+    {
+      "name": "Amma Nanna O Tamila Ammayi",
+      "genre": "Sports",
+      "directed_by": "Puri Jagannadh",
+      "initial_release_date": "2003-04-19"
+    },
+    {
+      "name": "Amores perros",
+      "genre": "Thriller",
+      "directed_by": "Alejandro González Iñárritu",
+      "initial_release_date": "2000-05-14"
+    },
+    {
+      "name": "Anacondas: The Hunt for the Blood Orchid",
+      "genre": "Thriller",
+      "directed_by": "Dwight H. Little",
+      "initial_release_date": "2004-08-25"
+    },
+    {
+      "name": "Anal Pick-Up",
+      "genre": "Pornographic film",
+      "directed_by": "Decklin"
+    },
+    {
+      "name": "Anamorph",
+      "genre": "Psychological thriller",
+      "directed_by": "H.S. Miller"
+    },
+    {
+      "name": "Anbe Aaruyire",
+      "genre": "Romance Film",
+      "directed_by": "S. J. Surya",
+      "initial_release_date": "2005-08-15"
+    },
+    {
+      "name": "Angel Eyes",
+      "genre": "Romance Film",
+      "directed_by": "Luis Mandoki",
+      "initial_release_date": "2001-05-18"
+    },
+    {
+      "name": "Angel-A",
+      "genre": "Romance Film",
+      "directed_by": "Luc Besson",
+      "initial_release_date": "2005-12-21"
+    },
+    {
+      "name": "Angels &amp; Demons",
+      "genre": "Thriller",
+      "directed_by": "Ron Howard",
+      "initial_release_date": "2009-05-04"
+    },
+    {
+      "name": "Virgin Territory",
+      "genre": "Romance Film",
+      "directed_by": "David Leland",
+      "initial_release_date": "2007-12-17"
+    },
+    {
+      "name": "Angli: The Movie",
+      "genre": "Thriller",
+      "directed_by": "Mario Busietta",
+      "initial_release_date": "2005-05-28"
+    },
+    {
+      "name": "Anjaneya",
+      "genre": "Romance Film",
+      "directed_by": "Maharajan",
+      "initial_release_date": "2003-10-24"
+    },
+    {
+      "name": "Ankahee",
+      "genre": "Romance Film",
+      "directed_by": "Vikram Bhatt",
+      "initial_release_date": "2006-05-19"
+    },
+    {
+      "name": "Annapolis",
+      "genre": "Romance Film",
+      "directed_by": "Justin Lin"
+    },
+    {
+      "name": "Annavaram",
+      "genre": "Thriller",
+      "directed_by": "Gridhar",
+      "initial_release_date": "2006-12-29"
+    },
+    {
+      "name": "Another Gay Movie",
+      "genre": "Parody",
+      "directed_by": "Todd Stephens",
+      "initial_release_date": "2006-04-28"
+    },
+    {
+      "name": "Ant-Man",
+      "genre": "Thriller",
+      "directed_by": "Peyton Reed",
+      "initial_release_date": "2015-07-17"
+    },
+    {
+      "name": "Anthony Zimmer",
+      "genre": "Thriller",
+      "directed_by": "Jérôme Salle",
+      "initial_release_date": "2005-04-27"
+    },
+    {
+      "name": "Antwone Fisher",
+      "genre": "Romance Film",
+      "directed_by": "Denzel Washington",
+      "initial_release_date": "2002-09-12"
+    },
+    {
+      "name": "Anukokunda Oka Roju",
+      "genre": "Thriller",
+      "directed_by": "Chandra Sekhar Yeleti",
+      "initial_release_date": "2005-06-30"
+    },
+    {
+      "name": "Anything Else",
+      "genre": "Romantic comedy",
+      "directed_by": "Woody Allen",
+      "initial_release_date": "2003-08-27"
+    },
+    {
+      "name": "Apasionados",
+      "genre": "Romantic comedy",
+      "directed_by": "Juan José Jusid",
+      "initial_release_date": "2002-06-06"
+    },
+    {
+      "name": "April's Shower",
+      "genre": "Romantic comedy",
+      "directed_by": "Trish Doolan",
+      "initial_release_date": "2006-01-13"
+    },
+    {
+      "name": "Aragami",
+      "genre": "Thriller",
+      "directed_by": "Ryuhei Kitamura",
+      "initial_release_date": "2003-03-27"
+    },
+    {
+      "name": "Armaan",
+      "genre": "Romance Film",
+      "directed_by": "Honey Irani",
+      "initial_release_date": "2003-05-16"
+    },
+    {
+      "name": "Aarya",
+      "genre": "Romance Film",
+      "directed_by": "Balasekaran",
+      "initial_release_date": "2007-08-10"
+    },
+    {
+      "name": "Assault on Precinct 13",
+      "genre": "Thriller",
+      "directed_by": "Jean-François Richet",
+      "initial_release_date": "2005-01-19"
+    },
+    {
+      "name": "Atonement",
+      "genre": "Romance Film",
+      "directed_by": "Joe Wright",
+      "initial_release_date": "2007-08-28"
+    },
+    {
+      "name": "Avalon",
+      "genre": "Science Fiction",
+      "directed_by": "Mamoru Oshii",
+      "initial_release_date": "2001-01-20"
+    },
+    {
+      "name": "Avatar",
+      "genre": "Science Fiction",
+      "directed_by": "James Cameron",
+      "initial_release_date": "2009-12-10"
+    },
+    {
+      "name": "Awake",
+      "genre": "Thriller",
+      "directed_by": "Joby Harold",
+      "initial_release_date": "2007-11-30"
+    },
+    {
+      "name": "Æon Flux",
+      "genre": "Science Fiction",
+      "directed_by": "Karyn Kusama",
+      "initial_release_date": "2005-12-01"
+    },
+    {
+      "name": "Back by Midnight",
+      "genre": "Prison film",
+      "directed_by": "Harry Basil",
+      "initial_release_date": "2005-01-25"
+    },
+    {
+      "name": "Bad Company",
+      "genre": "Spy film",
+      "directed_by": "Joel Schumacher",
+      "initial_release_date": "2002-04-26"
+    },
+    {
+      "name": "Bait",
+      "genre": "Thriller",
+      "directed_by": "Antoine Fuqua",
+      "initial_release_date": "2000-09-15"
+    },
+    {
+      "name": "Ballistic: Ecks vs. Sever",
+      "genre": "Spy film",
+      "directed_by": "Wych Kaosayananda",
+      "initial_release_date": "2002-09-20"
+    },
+    {
+      "name": "Balu ABCDEFG",
+      "genre": "Romance Film",
+      "directed_by": "A. Karunakaran",
+      "initial_release_date": "2005-01-06"
+    },
+    {
+      "name": "The Little Chinese Seamstress",
+      "genre": "Romance Film",
+      "directed_by": "Dai Sijie",
+      "initial_release_date": "2002-05-16"
+    },
+    {
+      "name": "Bamboozled",
+      "genre": "Satire",
+      "directed_by": "Spike Lee",
+      "initial_release_date": "2000-10-06"
+    },
+    {
+      "name": "Bandidas",
+      "genre": "Western",
+      "directed_by": "Espen Sandberg",
+      "initial_release_date": "2006-01-18"
+    },
+    {
+      "name": "Bandits",
+      "genre": "Romantic comedy",
+      "directed_by": "Barry Levinson",
+      "initial_release_date": "2001-10-12"
+    },
+    {
+      "name": "Baran",
+      "genre": "Romance Film",
+      "directed_by": "Majid Majidi",
+      "initial_release_date": "2001-01-31"
+    },
+    {
+      "name": "Bareback Mountain",
+      "genre": "Pornographic film",
+      "directed_by": "Afton Nills"
+    },
+    {
+      "name": "Barricade",
+      "genre": "Slasher",
+      "directed_by": "Timo Rose"
+    },
+    {
+      "name": "Bas Itna Sa Khwaab Hai",
+      "genre": "Romance Film",
+      "directed_by": "Goldie Behl",
+      "initial_release_date": "2001-07-06"
+    },
+    {
+      "name": "Basic",
+      "genre": "Thriller",
+      "directed_by": "John McTiernan",
+      "initial_release_date": "2003-03-28"
+    },
+    {
+      "name": "Basic Instinct 2",
+      "genre": "Thriller",
+      "directed_by": "Michael Caton-Jones",
+      "initial_release_date": "2006-03-31"
+    },
+    {
+      "name": "Batman Beyond: Return of the Joker",
+      "genre": "Science Fiction",
+      "directed_by": "Curt Geda",
+      "initial_release_date": "2000-12-12"
+    },
+    {
+      "name": "Battle Royale II: Requiem",
+      "genre": "Thriller",
+      "directed_by": "Kenta Fukasaku",
+      "initial_release_date": "2003-07-05"
+    },
+    {
+      "name": "Bedazzled",
+      "genre": "Romantic comedy",
+      "directed_by": "Harold Ramis",
+      "initial_release_date": "2000-10-19"
+    },
+    {
+      "name": "Artie Lange's Beer League",
+      "genre": "Sports",
+      "directed_by": "Frank Sebastiano",
+      "initial_release_date": "2006-09-15"
+    },
+    {
+      "name": "Before Sunset",
+      "genre": "Romance Film",
+      "directed_by": "Richard Linklater",
+      "initial_release_date": "2004-02-10"
+    },
+    {
+      "name": "Behind Enemy Lines",
+      "genre": "Thriller",
+      "directed_by": "John Moore",
+      "initial_release_date": "2001-11-17"
+    },
+    {
+      "name": "Being Cyrus",
+      "genre": "Thriller",
+      "directed_by": "Homi Adajania",
+      "initial_release_date": "2005-11-08"
+    },
+    {
+      "name": "Being Julia",
+      "genre": "Romance Film",
+      "directed_by": "István Szabó",
+      "initial_release_date": "2004-09-03"
+    },
+    {
+      "name": "Believe in Me",
+      "genre": "Sports",
+      "directed_by": "Robert Collector"
+    },
+    {
+      "name": "Don't Tempt Me",
+      "genre": "Religious Film",
+      "directed_by": "Agustín Díaz Yanes",
+      "initial_release_date": "2001-11-28"
+    },
+    {
+      "name": "The Best of The Bloodiest Brawls, Vol. 1",
+      "genre": "Sports",
+      "initial_release_date": "2006-03-14"
+    },
+    {
+      "name": "Bewitched",
+      "genre": "Romantic comedy",
+      "directed_by": "Nora Ephron",
+      "initial_release_date": "2005-06-24"
+    },
+    {
+      "name": "Bichhoo",
+      "genre": "Thriller",
+      "directed_by": "Guddu Dhanoa",
+      "initial_release_date": "2000-07-07"
+    },
+    {
+      "name": "Big Girls Don't Cry",
+      "genre": "World cinema",
+      "directed_by": "Maria von Heland",
+      "initial_release_date": "2002-10-24"
+    },
+    {
+      "name": "Big Toys, No Boys 2",
+      "genre": "Pornographic film",
+      "directed_by": "Tristán"
+    },
+    {
+      "name": "Bigger Than the Sky",
+      "genre": "Romantic comedy",
+      "directed_by": "Al Corley",
+      "initial_release_date": "2005-02-18"
+    },
+    {
+      "name": "Meet Bill",
+      "genre": "Romantic comedy",
+      "directed_by": "Bernie Goldmann",
+      "initial_release_date": "2007-09-08"
+    },
+    {
+      "name": "Black and White",
+      "genre": "Trial drama",
+      "directed_by": "Craig Lahiff",
+      "initial_release_date": "2002-10-31"
+    },
+    {
+      "name": "Black Book",
+      "genre": "Thriller",
+      "directed_by": "Paul Verhoeven",
+      "initial_release_date": "2006-09-01"
+    },
+    {
+      "name": "Black Christmas",
+      "genre": "Slasher",
+      "directed_by": "Glen Morgan",
+      "initial_release_date": "2006-12-15"
+    },
+    {
+      "name": "Black Hawk Down",
+      "genre": "War film",
+      "directed_by": "Ridley Scott",
+      "initial_release_date": "2001-12-18"
+    },
+    {
+      "name": "The Black Hole",
+      "genre": "Science Fiction",
+      "directed_by": "Tibor Takács",
+      "initial_release_date": "2006-06-10"
+    },
+    {
+      "name": "Black Knight",
+      "genre": "Time travel",
+      "directed_by": "Gil Junger",
+      "initial_release_date": "2001-11-15"
+    },
+    {
+      "name": "Blackball",
+      "genre": "Sports",
+      "directed_by": "Mel Smith",
+      "initial_release_date": "2005-02-11"
+    },
+    {
+      "name": "Blackwoods",
+      "genre": "Thriller",
+      "directed_by": "Uwe Boll"
+    },
+    {
+      "name": "Blade II",
+      "genre": "Thriller",
+      "directed_by": "Guillermo del Toro",
+      "initial_release_date": "2002-03-21"
+    },
+    {
+      "name": "Blade: Trinity",
+      "genre": "Thriller",
+      "directed_by": "David S. Goyer",
+      "initial_release_date": "2004-12-07"
+    },
+    {
+      "name": "Blood Rain",
+      "genre": "Thriller",
+      "directed_by": "Kim Dae-seung",
+      "initial_release_date": "2005-05-04"
+    },
+    {
+      "name": "Bloody Sunday",
+      "genre": "Political drama",
+      "directed_by": "Paul Greengrass",
+      "initial_release_date": "2002-01-16"
+    },
+    {
+      "name": "Blue Collar Comedy Tour: One for the Road",
+      "genre": "Stand-up comedy",
+      "directed_by": "C. B. Harding",
+      "initial_release_date": "2006-06-27"
+    },
+    {
+      "name": "Blue Collar Comedy Tour: The Movie",
+      "genre": "Stand-up comedy",
+      "directed_by": "C. B. Harding",
+      "initial_release_date": "2003-03-28"
+    },
+    {
+      "name": "Blue Crush",
+      "genre": "Teen film",
+      "directed_by": "John Stockwell",
+      "initial_release_date": "2002-08-08"
+    },
+    {
+      "name": "Blue Gate Crossing",
+      "genre": "Romance Film",
+      "directed_by": "Yee Chin-yen",
+      "initial_release_date": "2002-09-08"
+    },
+    {
+      "name": "Blueberry",
+      "genre": "Western",
+      "directed_by": "Jan Kounen",
+      "initial_release_date": "2004-02-11"
+    },
+    {
+      "name": "Blueprint",
+      "genre": "Science Fiction",
+      "directed_by": "Rolf Schübel",
+      "initial_release_date": "2003-12-08"
+    },
+    {
+      "name": "Bluffmaster!",
+      "genre": "Romance Film",
+      "directed_by": "Rohan Sippy",
+      "initial_release_date": "2005-12-16"
+    },
+    {
+      "name": "Bobby",
+      "genre": "Political drama",
+      "directed_by": "Emilio Estevez",
+      "initial_release_date": "2006-09-05"
+    },
+    {
+      "name": "Bonjour Monsieur Shlomi",
+      "genre": "World cinema",
+      "directed_by": "Shemi Zarhin",
+      "initial_release_date": "2003-04-03"
+    },
+    {
+      "name": "Free Radicals",
+      "genre": "World cinema",
+      "directed_by": "Barbara Albert"
+    },
+    {
+      "name": "Bossa Nova",
+      "genre": "Romance Film",
+      "directed_by": "Bruno Barreto",
+      "initial_release_date": "2000-02-18"
+    },
+    {
+      "name": "Boynton Beach Club",
+      "genre": "Romantic comedy",
+      "directed_by": "Susan Seidelman",
+      "initial_release_date": "2006-08-04"
+    },
+    {
+      "name": "Breakin' All the Rules",
+      "genre": "Romance Film",
+      "directed_by": "Daniel Taplitz",
+      "initial_release_date": "2004-05-14"
+    },
+    {
+      "name": "Breaking and Entering",
+      "genre": "Romance Film",
+      "directed_by": "Anthony Minghella",
+      "initial_release_date": "2006-09-13"
+    },
+    {
+      "name": "Bridget Jones: The Edge of Reason",
+      "genre": "Romantic comedy",
+      "directed_by": "Beeban Kidron",
+      "initial_release_date": "2004-11-08"
+    },
+    {
+      "name": "Bridget Jones's Diary",
+      "genre": "Romantic comedy",
+      "directed_by": "Sharon Maguire",
+      "initial_release_date": "2001-04-04"
+    },
+    {
+      "name": "Brilliant",
+      "genre": "Thriller",
+      "directed_by": "Roger Cardinal",
+      "initial_release_date": "2004-02-15"
+    },
+    {
+      "name": "Bring It On Again",
+      "genre": "Teen film",
+      "directed_by": "Damon Santostefano",
+      "initial_release_date": "2004-01-13"
+    },
+    {
+      "name": "Bring It On: All or Nothing",
+      "genre": "Teen film",
+      "directed_by": "Steve Rash",
+      "initial_release_date": "2006-08-08"
+    },
+    {
+      "name": "Bringing Down the House",
+      "genre": "Romantic comedy",
+      "directed_by": "Adam Shankman",
+      "initial_release_date": "2003-03-07"
+    },
+    {
+      "name": "Brokeback Mountain",
+      "genre": "Romance Film",
+      "directed_by": "Ang Lee",
+      "initial_release_date": "2005-09-02"
+    },
+    {
+      "name": "The Broken Hearts Club: A Romantic Comedy",
+      "genre": "Romance Film",
+      "directed_by": "Greg Berlanti",
+      "initial_release_date": "2000-01-29"
+    },
+    {
+      "name": "Brother",
+      "genre": "Thriller",
+      "directed_by": "Takeshi Kitano"
+    },
+    {
+      "name": "Bubble Boy",
+      "genre": "Romance Film",
+      "directed_by": "Blair Hayes",
+      "initial_release_date": "2001-08-23"
+    },
+    {
+      "name": "Buddy Boy",
+      "genre": "Psychological thriller",
+      "directed_by": "Mark Hanlon",
+      "initial_release_date": "2000-03-24"
+    },
+    {
+      "name": "Buffalo Dreams",
+      "genre": "Western",
+      "directed_by": "David Jackson",
+      "initial_release_date": "2005-03-11"
+    },
+    {
+      "name": "Buffalo Soldiers",
+      "genre": "War film",
+      "directed_by": "Gregor Jordan",
+      "initial_release_date": "2001-09-08"
+    },
+    {
+      "name": "Bug",
+      "genre": "Thriller",
+      "directed_by": "William Friedkin",
+      "initial_release_date": "2006-05-19"
+    },
+    {
+      "name": "Bully",
+      "genre": "Teen film",
+      "directed_by": "Larry Clark",
+      "initial_release_date": "2001-06-15"
+    },
+    {
+      "name": "Bunty Aur Babli",
+      "genre": "Romance Film",
+      "directed_by": "Shaad Ali",
+      "initial_release_date": "2005-05-27"
+    },
+    {
+      "name": "Butterfly on a Wheel",
+      "genre": "Thriller",
+      "directed_by": "Mike Barker",
+      "initial_release_date": "2007-02-10"
+    },
+    {
+      "name": "Caché",
+      "genre": "Thriller",
+      "directed_by": "Michael Haneke",
+      "initial_release_date": "2005-05-14"
+    },
+    {
+      "name": "Cadet Kelly",
+      "genre": "Teen film",
+      "directed_by": "Larry Shaw",
+      "initial_release_date": "2002-03-08"
+    },
+    {
+      "name": "Caffeine",
+      "genre": "Romantic comedy",
+      "directed_by": "John Cosgrove"
+    },
+    {
+      "name": "Cake",
+      "genre": "Romantic comedy",
+      "directed_by": "Nisha Ganatra"
+    },
+    {
+      "name": "Calcutta Mail",
+      "genre": "Thriller",
+      "directed_by": "Sudhir Mishra",
+      "initial_release_date": "2003-06-30"
+    },
+    {
+      "name": "Candy",
+      "genre": "Romance Film",
+      "directed_by": "Neil Armfield",
+      "initial_release_date": "2006-04-27"
+    },
+    {
+      "name": "Caótica Ana",
+      "genre": "Romance Film",
+      "directed_by": "Julio Medem",
+      "initial_release_date": "2007-08-24"
+    },
+    {
+      "name": "Cargo",
+      "genre": "Thriller",
+      "directed_by": "Clive Gordon",
+      "initial_release_date": "2006-01-24"
+    },
+    {
+      "name": "Casanova",
+      "genre": "Romance Film",
+      "directed_by": "Lasse Hallström",
+      "initial_release_date": "2005-09-03"
+    },
+    {
+      "name": "Catch That Kid",
+      "genre": "Teen film",
+      "directed_by": "Bart Freundlich",
+      "initial_release_date": "2004-02-06"
+    },
+    {
+      "name": "Caved In: Prehistoric Terror",
+      "genre": "Science Fiction",
+      "directed_by": "Richard Pepin",
+      "initial_release_date": "2006-01-07"
+    },
+    {
+      "name": "Cellular",
+      "genre": "Thriller",
+      "directed_by": "David R. Ellis",
+      "initial_release_date": "2004-09-10"
+    },
+    {
+      "name": "Center Stage",
+      "genre": "Teen film",
+      "directed_by": "Nicholas Hytner",
+      "initial_release_date": "2000-05-12"
+    },
+    {
+      "name": "Chakram",
+      "genre": "Romance Film",
+      "directed_by": "Krishna Vamsi",
+      "initial_release_date": "2005-03-25"
+    },
+    {
+      "name": "Chalo Ishq Ladaaye",
+      "genre": "Romance Film",
+      "directed_by": "Aziz Sejawal",
+      "initial_release_date": "2002-12-27"
+    },
+    {
+      "name": "Chalte Chalte",
+      "genre": "Romance Film",
+      "directed_by": "Aziz Mirza",
+      "initial_release_date": "2003-06-12"
+    },
+    {
+      "name": "Chameli",
+      "genre": "Romance Film",
+      "directed_by": "Sudhir Mishra",
+      "initial_release_date": "2003-12-31"
+    },
+    {
+      "name": "Changing Lanes",
+      "genre": "Thriller",
+      "directed_by": "Roger Michell",
+      "initial_release_date": "2002-04-07"
+    },
+    {
+      "name": "Chaos",
+      "genre": "Thriller",
+      "directed_by": "Tony Giglio",
+      "initial_release_date": "2005-12-15"
+    },
+    {
+      "name": "Chaos Theory",
+      "genre": "Romance Film",
+      "directed_by": "Marcos Siega"
+    },
+    {
+      "name": "Charlotte Gray",
+      "genre": "Romance Film",
+      "directed_by": "Gillian Armstrong",
+      "initial_release_date": "2001-12-17"
+    },
+    {
+      "name": "Chasing Liberty",
+      "genre": "Romantic comedy",
+      "directed_by": "Andy Cadiff",
+      "initial_release_date": "2004-01-07"
+    },
+    {
+      "name": "Chasing Papi",
+      "genre": "Romance Film",
+      "directed_by": "Linda Mendoza",
+      "initial_release_date": "2003-04-16"
+    },
+    {
+      "name": "Chellamae",
+      "genre": "Romance Film",
+      "directed_by": "Gandhi Krishna",
+      "initial_release_date": "2004-09-10"
+    },
+    {
+      "name": "Chemman Chaalai",
+      "genre": "Tamil cinema",
+      "directed_by": "Deepak Kumaran Menon"
+    },
+    {
+      "name": "Cherry Falls",
+      "genre": "Satire",
+      "directed_by": "Geoffrey Wright",
+      "initial_release_date": "2000-07-29"
+    },
+    {
+      "name": "Girl from Rio",
+      "genre": "Romantic comedy",
+      "directed_by": "Christopher Monger",
+      "initial_release_date": "2003-04-11"
+    },
+    {
+      "name": "Children of Men",
+      "genre": "Thriller",
+      "directed_by": "Alfonso Cuarón",
+      "initial_release_date": "2006-09-03"
+    },
+    {
+      "name": "Chithiram Pesuthadi",
+      "genre": "Romance Film",
+      "directed_by": "Mysskin",
+      "initial_release_date": "2006-02-10"
+    },
+    {
+      "name": "Chocolat",
+      "genre": "Romance Film",
+      "directed_by": "Lasse Hallström",
+      "initial_release_date": "2000-12-15"
+    },
+    {
+      "name": "Chori Chori",
+      "genre": "Romance Film",
+      "directed_by": "Milan Luthria",
+      "initial_release_date": "2003-08-01"
+    },
+    {
+      "name": "Chori Chori Chupke Chupke",
+      "genre": "Romance Film",
+      "directed_by": "Abbas Burmawalla",
+      "initial_release_date": "2001-03-09"
+    },
+    {
+      "name": "Christina's House",
+      "genre": "Thriller",
+      "directed_by": "Gavin Wilding",
+      "initial_release_date": "2000-02-24"
+    },
+    {
+      "name": "Chubby Killer",
+      "genre": "Slasher",
+      "directed_by": "Reuben Rox"
+    },
+    {
+      "name": "Chup Chup Ke",
+      "genre": "Romantic comedy",
+      "directed_by": "Priyadarshan",
+      "initial_release_date": "2006-06-09"
+    },
+    {
+      "name": "Churchill: The Hollywood Years",
+      "genre": "Satire",
+      "directed_by": "Peter Richardson",
+      "initial_release_date": "2004-12-03"
+    },
+    {
+      "name": "City of Ghosts",
+      "genre": "Thriller",
+      "directed_by": "Matt Dillon",
+      "initial_release_date": "2003-03-27"
+    },
+    {
+      "name": "Claustrophobia",
+      "genre": "Slasher",
+      "directed_by": "Mark Tapio Kines"
+    },
+    {
+      "name": "Clockstoppers",
+      "genre": "Science Fiction",
+      "directed_by": "Jonathan Frakes",
+      "initial_release_date": "2002-03-29"
+    },
+    {
+      "name": "Closer",
+      "genre": "Romance Film",
+      "directed_by": "Mike Nichols",
+      "initial_release_date": "2004-12-03"
+    },
+    {
+      "name": "Closing the Ring",
+      "genre": "War film",
+      "directed_by": "Richard Attenborough",
+      "initial_release_date": "2007-09-14"
+    },
+    {
+      "name": "Club Dread",
+      "genre": "Parody",
+      "directed_by": "Jay Chandrasekhar",
+      "initial_release_date": "2004-02-27"
+    },
+    {
+      "name": "Code 46",
+      "genre": "Science Fiction",
+      "directed_by": "Michael Winterbottom",
+      "initial_release_date": "2004-05-07"
+    },
+    {
+      "name": "Codename: Kids Next Door: Operation Z.E.R.O.",
+      "genre": "Science Fiction",
+      "directed_by": "Tom Warburton",
+      "initial_release_date": "2006-01-13"
+    },
+    {
+      "name": "Cold Creek Manor",
+      "genre": "Thriller",
+      "directed_by": "Mike Figgis",
+      "initial_release_date": "2003-09-19"
+    },
+    {
+      "name": "Cold Mountain",
+      "genre": "War film",
+      "directed_by": "Anthony Minghella",
+      "initial_release_date": "2003-12-25"
+    },
+    {
+      "name": "Collateral",
+      "genre": "Thriller",
+      "directed_by": "Michael Mann",
+      "initial_release_date": "2004-08-05"
+    },
+    {
+      "name": "Commitments",
+      "genre": "Romantic comedy",
+      "directed_by": "Carol Mayes",
+      "initial_release_date": "2001-05-04"
+    },
+    {
+      "name": "Company",
+      "genre": "Thriller",
+      "directed_by": "Ram Gopal Varma",
+      "initial_release_date": "2002-04-15"
+    },
+    {
+      "name": "Confidence",
+      "genre": "Thriller",
+      "directed_by": "James Foley",
+      "initial_release_date": "2003-01-20"
+    },
+    {
+      "name": "Covert One: The Hades Factor",
+      "genre": "Thriller",
+      "directed_by": "Mick Jackson"
+    },
+    {
+      "name": "Cowards Bend the Knee",
+      "genre": "Silent film",
+      "directed_by": "Guy Maddin",
+      "initial_release_date": "2003-02-26"
+    },
+    {
+      "name": "Crank",
+      "genre": "Thriller",
+      "directed_by": "Neveldine/Taylor",
+      "initial_release_date": "2006-08-31"
+    },
+    {
+      "name": "Crazy/Beautiful",
+      "genre": "Teen film",
+      "directed_by": "John Stockwell",
+      "initial_release_date": "2001-06-28"
+    },
+    {
+      "name": "Criminal",
+      "genre": "Thriller",
+      "directed_by": "Gregory Jacobs",
+      "initial_release_date": "2004-09-10"
+    },
+    {
+      "name": "Crimson Gold",
+      "genre": "World cinema",
+      "directed_by": "Jafar Panahi"
+    },
+    {
+      "name": "Crouching Tiger, Hidden Dragon",
+      "genre": "Romance Film",
+      "directed_by": "Ang Lee",
+      "initial_release_date": "2000-05-16"
+    },
+    {
+      "name": "Cry_Wolf",
+      "genre": "Slasher",
+      "directed_by": "Jeff Wadlow",
+      "initial_release_date": "2005-09-16"
+    },
+    {
+      "name": "Cube 2: Hypercube",
+      "genre": "Science Fiction",
+      "directed_by": "Andrzej Sekuła",
+      "initial_release_date": "2002-04-15"
+    },
+    {
+      "name": "Curse of the Golden Flower",
+      "genre": "Romance Film",
+      "directed_by": "Zhang Yimou",
+      "initial_release_date": "2006-12-21"
+    },
+    {
+      "name": "D-Tox",
+      "genre": "Thriller",
+      "directed_by": "Jim Gillespie",
+      "initial_release_date": "2002-01-04"
+    },
+    {
+      "name": "Daddy-Long-Legs",
+      "genre": "Romantic comedy",
+      "directed_by": "Gong Jeong-shik",
+      "initial_release_date": "2005-01-13"
+    },
+    {
+      "name": "Dahmer",
+      "genre": "Thriller",
+      "directed_by": "David Jacobson",
+      "initial_release_date": "2002-06-21"
+    },
+    {
+      "name": "Dan in Real Life",
+      "genre": "Romance Film",
+      "directed_by": "Peter Hedges",
+      "initial_release_date": "2007-10-26"
+    },
+    {
+      "name": "Danny Deckchair",
+      "genre": "Romantic comedy",
+      "directed_by": "Jeff Balsmeyer"
+    },
+    {
+      "name": "Dark Water",
+      "genre": "Thriller",
+      "directed_by": "Walter Salles",
+      "initial_release_date": "2005-06-27"
+    },
+    {
+      "name": "Dark Water",
+      "genre": "Thriller",
+      "directed_by": "Hideo Nakata",
+      "initial_release_date": "2002-01-19"
+    },
+    {
+      "name": "The Experiment",
+      "genre": "Thriller",
+      "directed_by": "Paul Scheuring",
+      "initial_release_date": "2010-07-15"
+    },
+    {
+      "name": "Dasavathaaram",
+      "genre": "Science Fiction",
+      "directed_by": "K. S. Ravikumar",
+      "initial_release_date": "2008-06-12"
+    },
+    {
+      "name": "Date Movie",
+      "genre": "Romantic comedy",
+      "directed_by": "Aaron Seltzer",
+      "initial_release_date": "2006-02-17"
+    },
+    {
+      "name": "Dave Attell's Insomniac Tour",
+      "genre": "Stand-up comedy",
+      "directed_by": "Joel Gallen",
+      "initial_release_date": "2006-04-11"
+    },
+    {
+      "name": "David &amp; Layla",
+      "genre": "Romantic comedy",
+      "directed_by": "Jay Jonroy",
+      "initial_release_date": "2005-10-21"
+    },
+    {
+      "name": "Day of the Dead",
+      "genre": "Splatter film",
+      "directed_by": "Steve Miner",
+      "initial_release_date": "2008-04-08"
+    },
+    {
+      "name": "Day Watch",
+      "genre": "Thriller",
+      "directed_by": "Timur Bekmambetov",
+      "initial_release_date": "2006-01-01"
+    },
+    {
+      "name": "Dead Man's Shoes",
+      "genre": "Psychological thriller",
+      "directed_by": "Shane Meadows",
+      "initial_release_date": "2004-10-01"
+    },
+    {
+      "name": "Decoys",
+      "genre": "Science Fiction",
+      "directed_by": "Matthew Hastings"
+    },
+    {
+      "name": "Deepavali",
+      "genre": "Romance Film",
+      "directed_by": "Ezhil",
+      "initial_release_date": "2007-02-09"
+    },
+    {
+      "name": "Deewane Huye Paagal",
+      "genre": "Romance Film",
+      "directed_by": "Vikram Bhatt",
+      "initial_release_date": "2005-11-25"
+    },
+    {
+      "name": "Déjà Vu",
+      "genre": "Thriller",
+      "directed_by": "Tony Scott",
+      "initial_release_date": "2006-11-20"
+    },
+    {
+      "name": "Democrazy",
+      "genre": "Parody",
+      "directed_by": "Michael Legge"
+    },
+    {
+      "name": "Der Schuh des Manitu",
+      "genre": "Western",
+      "directed_by": "Michael Herbig",
+      "initial_release_date": "2001-07-13"
+    },
+    {
+      "name": "The Tunnel",
+      "genre": "World cinema",
+      "directed_by": "Roland Suso Richter",
+      "initial_release_date": "2001-01-21"
+    },
+    {
+      "name": "Derailed",
+      "genre": "Thriller",
+      "directed_by": "Mikael Håfström",
+      "initial_release_date": "2005-11-11"
+    },
+    {
+      "name": "Derailed",
+      "genre": "Thriller",
+      "directed_by": "Bob Misiorowski"
+    },
+    {
+      "name": "Deuce Bigalow: European Gigolo",
+      "genre": "Sex comedy",
+      "directed_by": "Mike Bigelow",
+      "initial_release_date": "2005-08-06"
+    },
+    {
+      "name": "Devadasu",
+      "genre": "Romance Film",
+      "directed_by": "YVS Chowdary",
+      "initial_release_date": "2006-01-11"
+    },
+    {
+      "name": "Devdas",
+      "genre": "Romance Film",
+      "directed_by": "Sanjay Leela Bhansali",
+      "initial_release_date": "2002-05-23"
+    },
+    {
+      "name": "Devil's Pond",
+      "genre": "Thriller",
+      "directed_by": "Joel Viertel",
+      "initial_release_date": "2003-10-21"
+    },
+    {
+      "name": "Diary of a Housewife",
+      "genre": "Short Film",
+      "directed_by": "Vinod Sukumaran"
+    },
+    {
+      "name": "Dickie Roberts: Former Child Star",
+      "genre": "Parody",
+      "directed_by": "Sam Weisman",
+      "initial_release_date": "2003-09-03"
+    },
+    {
+      "name": "God Is Great and I'm Not",
+      "genre": "Romantic comedy",
+      "directed_by": "Pascale Bailly",
+      "initial_release_date": "2001-09-26"
+    },
+    {
+      "name": "Dil Diya Hai",
+      "genre": "Romance Film",
+      "directed_by": "Aditya Datt",
+      "initial_release_date": "2006-09-08"
+    },
+    {
+      "name": "Dil Ka Rishta",
+      "genre": "Romance Film",
+      "directed_by": "Naresh Malhotra",
+      "initial_release_date": "2003-01-17"
+    },
+    {
+      "name": "Disappearing Acts",
+      "genre": "Romance Film",
+      "directed_by": "Gina Prince-Bythewood",
+      "initial_release_date": "2000-12-09"
+    },
+    {
+      "name": "Dishyum",
+      "genre": "Romance Film",
+      "directed_by": "Sasi",
+      "initial_release_date": "2006-02-02"
+    },
+    {
+      "name": "Disturbia",
+      "genre": "Thriller",
+      "directed_by": "D. J. Caruso",
+      "initial_release_date": "2007-04-04"
+    },
+    {
+      "name": "Ditto",
+      "genre": "Romance Film",
+      "directed_by": "Jeong-kwon Kim",
+      "initial_release_date": "2000-05-27"
+    },
+    {
+      "name": "DodgeBall: A True Underdog Story",
+      "genre": "Sports",
+      "directed_by": "Rawson Marshall Thurber",
+      "initial_release_date": "2004-06-18"
+    },
+    {
+      "name": "Dolls",
+      "genre": "Romance Film",
+      "directed_by": "Takeshi Kitano",
+      "initial_release_date": "2002-09-05"
+    },
+    {
+      "name": "Domino",
+      "genre": "Thriller",
+      "directed_by": "Tony Scott",
+      "initial_release_date": "2005-09-25"
+    },
+    {
+      "name": "Don't Come Knocking",
+      "genre": "Western",
+      "directed_by": "Wim Wenders",
+      "initial_release_date": "2005-05-19"
+    },
+    {
+      "name": "Don't Move",
+      "genre": "Romance Film",
+      "directed_by": "Sergio Castellitto",
+      "initial_release_date": "2004-03-12"
+    },
+    {
+      "name": "Don't Say a Word",
+      "genre": "Thriller",
+      "directed_by": "Gary Fleder",
+      "initial_release_date": "2001-09-24"
+    },
+    {
+      "name": "Donnie Darko",
+      "genre": "Science Fiction",
+      "directed_by": "Richard Kelly",
+      "initial_release_date": "2001-01-19"
+    },
+    {
+      "name": "Doomsday",
+      "genre": "Science Fiction",
+      "directed_by": "Neil Marshall",
+      "initial_release_date": "2008-03-14"
+    },
+    {
+      "name": "Dosti: Friends Forever",
+      "genre": "Romance Film",
+      "directed_by": "Suneel Darshan",
+      "initial_release_date": "2005-12-23"
+    },
+    {
+      "name": "Double Vision",
+      "genre": "Thriller",
+      "directed_by": "Chen Kuo-Fu",
+      "initial_release_date": "2002-05-20"
+    },
+    {
+      "name": "Down with Love",
+      "genre": "Romantic comedy",
+      "directed_by": "Peyton Reed",
+      "initial_release_date": "2003-05-09"
+    },
+    {
+      "name": "Dracula: Pages from a Virgin's Diary",
+      "genre": "Silent film",
+      "directed_by": "Guy Maddin",
+      "initial_release_date": "2002-02-28"
+    },
+    {
+      "name": "Dragonfly",
+      "genre": "Thriller",
+      "directed_by": "Tom Shadyac",
+      "initial_release_date": "2002-02-18"
+    },
+    {
+      "name": "Dreamcatcher",
+      "genre": "Science Fiction",
+      "directed_by": "Lawrence Kasdan",
+      "initial_release_date": "2003-03-06"
+    },
+    {
+      "name": "Driving Miss Wealthy",
+      "genre": "Romance Film",
+      "directed_by": "James Yuen",
+      "initial_release_date": "2004-05-03"
+    },
+    {
+      "name": "Duck! The Carbine High Massacre",
+      "genre": "Satire",
+      "directed_by": "William Hellfire",
+      "initial_release_date": "2000-04-20"
+    },
+    {
+      "name": "Dumm Dumm Dumm",
+      "genre": "Romance Film",
+      "directed_by": "Azhagam Perumal",
+      "initial_release_date": "2001-04-13"
+    },
+    {
+      "name": "Dummy",
+      "genre": "Romantic comedy",
+      "directed_by": "Greg Pritikin",
+      "initial_release_date": "2003-09-12"
+    },
+    {
+      "name": "Dus",
+      "genre": "Thriller",
+      "directed_by": "Anubhav Sinha",
+      "initial_release_date": "2005-07-08"
+    },
+    {
+      "name": "Dust",
+      "genre": "Western",
+      "directed_by": "Milcho Manchevski",
+      "initial_release_date": "2001-08-29"
+    },
+    {
+      "name": "Eastern Promises",
+      "genre": "Thriller",
+      "directed_by": "David Cronenberg",
+      "initial_release_date": "2007-09-08"
+    },
+    {
+      "name": "Eating Out",
+      "genre": "Romantic comedy",
+      "directed_by": "Q. Allan Brocka"
+    },
+    {
+      "name": "Echoes of Innocence",
+      "genre": "Thriller",
+      "directed_by": "Nathan Todd Sims",
+      "initial_release_date": "2005-09-09"
+    },
+    {
+      "name": "Eddie's Million Dollar Cook-Off",
+      "genre": "Teen film",
+      "directed_by": "Paul Hoen",
+      "initial_release_date": "2003-07-18"
+    },
+    {
+      "name": "Edison",
+      "genre": "Thriller",
+      "directed_by": "David J. Burke",
+      "initial_release_date": "2005-03-05"
+    },
+    {
+      "name": "Edmond",
+      "genre": "Thriller",
+      "directed_by": "Stuart Gordon",
+      "initial_release_date": "2005-09-02"
+    },
+    {
+      "name": "El Aura",
+      "genre": "Thriller",
+      "directed_by": "Fabián Bielinsky",
+      "initial_release_date": "2005-09-15"
+    },
+    {
+      "name": "The Crime of Father Amaro",
+      "genre": "Romance Film",
+      "directed_by": "Carlos Carrera",
+      "initial_release_date": "2002-08-16"
+    },
+    {
+      "name": "Election 2",
+      "genre": "Thriller",
+      "directed_by": "Johnnie To",
+      "initial_release_date": "2006-04-04"
+    },
+    {
+      "name": "Elephant",
+      "genre": "Teen film",
+      "directed_by": "Gus Van Sant",
+      "initial_release_date": "2003-05-18"
+    },
+    {
+      "name": "Elephants Dream",
+      "genre": "Short Film",
+      "directed_by": "Bassam Kurdali",
+      "initial_release_date": "2006-03-24"
+    },
+    {
+      "name": "Elizabethtown",
+      "genre": "Romantic comedy",
+      "directed_by": "Cameron Crowe",
+      "initial_release_date": "2005-09-04"
+    },
+    {
+      "name": "Elvira's Haunted Hills",
+      "genre": "Parody",
+      "directed_by": "Sam Irvin",
+      "initial_release_date": "2001-06-23"
+    },
+    {
+      "name": "Empire",
+      "genre": "Thriller",
+      "directed_by": "Franc. Reyes"
+    },
+    {
+      "name": "Employee of the Month",
+      "genre": "Romantic comedy",
+      "directed_by": "Greg Coolidge",
+      "initial_release_date": "2006-10-06"
+    },
+    {
+      "name": "EMR",
+      "genre": "Thriller",
+      "directed_by": "Danny McCullough",
+      "initial_release_date": "2004-03-08"
+    },
+    {
+      "name": "Enduring Love",
+      "genre": "Thriller",
+      "directed_by": "Roger Michell",
+      "initial_release_date": "2004-09-04"
+    },
+    {
+      "name": "Enemy at the Gates",
+      "genre": "War film",
+      "directed_by": "Jean-Jacques Annaud",
+      "initial_release_date": "2001-02-07"
+    },
+    {
+      "name": "Enigma",
+      "genre": "Thriller",
+      "directed_by": "Michael Apted",
+      "initial_release_date": "2001-01-22"
+    },
+    {
+      "name": "Enigma: The Best of Jeff Hardy",
+      "genre": "Sports",
+      "directed_by": "Craig Leathers",
+      "initial_release_date": "2005-10-04"
+    },
+    {
+      "name": "Equilibrium",
+      "genre": "Science Fiction",
+      "directed_by": "Kurt Wimmer",
+      "initial_release_date": "2002-12-06"
+    },
+    {
+      "name": "Eros",
+      "genre": "Romance Film",
+      "directed_by": "Michelangelo Antonioni",
+      "initial_release_date": "2004-09-10"
+    },
+    {
+      "name": "Eternal Sunshine of the Spotless Mind",
+      "genre": "Romance Film",
+      "directed_by": "Michel Gondry",
+      "initial_release_date": "2004-03-19"
+    },
+    {
+      "name": "EuroTrip",
+      "genre": "Sex comedy",
+      "directed_by": "Jeff Schaffer",
+      "initial_release_date": "2004-02-20"
+    },
+    {
+      "name": "Evan Almighty",
+      "genre": "Religious Film",
+      "directed_by": "Tom Shadyac",
+      "initial_release_date": "2007-06-21"
+    },
+    {
+      "name": "Everlasting Regret",
+      "genre": "Romance Film",
+      "directed_by": "Stanley Kwan",
+      "initial_release_date": "2005-09-08"
+    },
+    {
+      "name": "Everybody's Famous!",
+      "genre": "World cinema",
+      "directed_by": "Dominique Deruddere",
+      "initial_release_date": "2000-04-12"
+    },
+    {
+      "name": "Everything Goes",
+      "genre": "Short Film",
+      "directed_by": "Andrew Kotatko",
+      "initial_release_date": "2004-06-14"
+    },
+    {
+      "name": "Evilenko",
+      "genre": "Thriller",
+      "directed_by": "David Grieco",
+      "initial_release_date": "2004-04-16"
+    },
+    {
+      "name": "Evolution",
+      "genre": "Science Fiction",
+      "directed_by": "Ivan Reitman",
+      "initial_release_date": "2001-06-08"
+    },
+    {
+      "name": "Facing Windows",
+      "genre": "Romance Film",
+      "directed_by": "Ferzan Özpetek",
+      "initial_release_date": "2003-02-28"
+    },
+    {
+      "name": "Fail Safe",
+      "genre": "Thriller",
+      "directed_by": "Stephen Frears",
+      "initial_release_date": "2000-04-09"
+    },
+    {
+      "name": "Failan",
+      "genre": "Romance Film",
+      "directed_by": "Song Hae-sung",
+      "initial_release_date": "2001-04-28"
+    },
+    {
+      "name": "Failure to Launch",
+      "genre": "Romantic comedy",
+      "directed_by": "Tom Dey",
+      "initial_release_date": "2006-03-10"
+    },
+    {
+      "name": "Fake",
+      "genre": "Romance Film",
+      "directed_by": "Thanakorn Pongsuwan",
+      "initial_release_date": "2003-04-28"
+    },
+    {
+      "name": "Fallen",
+      "genre": "Science Fiction",
+      "directed_by": "Mikael Salomon"
+    },
+    {
+      "name": "Fanaa",
+      "genre": "Thriller",
+      "directed_by": "Kunal Kohli",
+      "initial_release_date": "2006-05-26"
+    },
+    {
+      "name": "FAQ: Frequently Asked Questions",
+      "genre": "Science Fiction",
+      "directed_by": "Carlos Atanes",
+      "initial_release_date": "2004-10-12"
+    },
+    {
+      "name": "Far from Heaven",
+      "genre": "Romance Film",
+      "directed_by": "Todd Haynes",
+      "initial_release_date": "2002-09-01"
+    },
+    {
+      "name": "Farce of the Penguins",
+      "genre": "Parody",
+      "directed_by": "Bob Saget"
+    },
+    {
+      "name": "Fatwa",
+      "genre": "Thriller",
+      "directed_by": "John Carter",
+      "initial_release_date": "2006-03-24"
+    },
+    {
+      "name": "Fay Grim",
+      "genre": "Thriller",
+      "directed_by": "Hal Hartley",
+      "initial_release_date": "2006-09-11"
+    },
+    {
+      "name": "Fear and Trembling",
+      "genre": "World cinema",
+      "directed_by": "Alain Corneau"
+    },
+    {
+      "name": "Fear X",
+      "genre": "Psychological thriller",
+      "directed_by": "Nicolas Winding Refn",
+      "initial_release_date": "2003-01-19"
+    },
+    {
+      "name": "Femme Fatale",
+      "genre": "Thriller",
+      "directed_by": "Brian De Palma",
+      "initial_release_date": "2002-04-30"
+    },
+    {
+      "name": "Fever Pitch",
+      "genre": "Romance Film",
+      "directed_by": "Bobby Farrelly",
+      "initial_release_date": "2005-04-06"
+    },
+    {
+      "name": "Fida",
+      "genre": "Romance Film",
+      "directed_by": "Ken Ghosh",
+      "initial_release_date": "2004-08-20"
+    },
+    {
+      "name": "Final Destination",
+      "genre": "Slasher",
+      "directed_by": "James Wong",
+      "initial_release_date": "2000-03-16"
+    },
+    {
+      "name": "Final Destination 3",
+      "genre": "Slasher",
+      "directed_by": "James Wong",
+      "initial_release_date": "2006-02-09"
+    },
+    {
+      "name": "Final Destination 2",
+      "genre": "Slasher",
+      "directed_by": "David R. Ellis",
+      "initial_release_date": "2003-01-30"
+    },
+    {
+      "name": "Final Fantasy: The Spirits Within",
+      "genre": "Science Fiction",
+      "directed_by": "Hironobu Sakaguchi",
+      "initial_release_date": "2001-07-02"
+    },
+    {
+      "name": "Finder's Fee",
+      "genre": "Thriller",
+      "directed_by": "Jeff Probst",
+      "initial_release_date": "2001-06-16"
+    },
+    {
+      "name": "Fingerprints",
+      "genre": "Thriller",
+      "directed_by": "Harry Basil"
+    },
+    {
+      "name": "Firewall",
+      "genre": "Thriller",
+      "directed_by": "Richard Loncraine",
+      "initial_release_date": "2006-02-02"
+    },
+    {
+      "name": "First Daughter",
+      "genre": "Romantic comedy",
+      "directed_by": "Forest Whitaker",
+      "initial_release_date": "2004-09-24"
+    },
+    {
+      "name": "Fiza",
+      "genre": "Romance Film",
+      "directed_by": "Khalid Mohamed",
+      "initial_release_date": "2000-09-08"
+    },
+    {
+      "name": "Flags of Our Fathers",
+      "genre": "War film",
+      "directed_by": "Clint Eastwood",
+      "initial_release_date": "2006-10-20"
+    },
+    {
+      "name": "Flightplan",
+      "genre": "Thriller",
+      "directed_by": "Robert Schwentke",
+      "initial_release_date": "2005-09-22"
+    },
+    {
+      "name": "For the Birds",
+      "genre": "Short Film",
+      "directed_by": "Ralph Eggleston",
+      "initial_release_date": "2000-06-05"
+    },
+    {
+      "name": "Forest of the Gods",
+      "genre": "War film",
+      "directed_by": "Algimantas Puipa",
+      "initial_release_date": "2005-09-23"
+    },
+    {
+      "name": "Formula 17",
+      "genre": "Romantic comedy",
+      "directed_by": "Chen Yin-jung",
+      "initial_release_date": "2004-04-02"
+    },
+    {
+      "name": "Frailty",
+      "genre": "Psychological thriller",
+      "directed_by": "Bill Paxton",
+      "initial_release_date": "2001-11-17"
+    },
+    {
+      "name": "Frequency",
+      "genre": "Thriller",
+      "directed_by": "Gregory Hoblit",
+      "initial_release_date": "2000-04-28"
+    },
+    {
+      "name": "Friends",
+      "genre": "Romance Film",
+      "directed_by": "Siddique",
+      "initial_release_date": "2001-01-14"
+    },
+    {
+      "name": "Friends with Money",
+      "genre": "Romance Film",
+      "directed_by": "Nicole Holofcener",
+      "initial_release_date": "2006-04-07"
+    },
+    {
+      "name": "From Hell",
+      "genre": "Thriller",
+      "directed_by": "Allen Hughes",
+      "initial_release_date": "2001-09-08"
+    },
+    {
+      "name": "Frostbite",
+      "genre": "Sports",
+      "directed_by": "Jonathan Schwartz"
+    },
+    {
+      "name": "Full Disclosure",
+      "genre": "Thriller",
+      "directed_by": "John Bradshaw",
+      "initial_release_date": "2001-05-15"
+    },
+    {
+      "name": "Full Frontal",
+      "genre": "Romantic comedy",
+      "directed_by": "Steven Soderbergh",
+      "initial_release_date": "2002-08-02"
+    },
+    {
+      "name": "Gabrielle",
+      "genre": "Romance Film",
+      "directed_by": "Patrice Chéreau",
+      "initial_release_date": "2005-09-05"
+    },
+    {
+      "name": "Maximum Surge",
+      "genre": "Science Fiction",
+      "directed_by": "Jason Bourque",
+      "initial_release_date": "2003-06-23"
+    },
+    {
+      "name": "Gangotri",
+      "genre": "Romance Film",
+      "directed_by": "Kovelamudi Raghavendra Rao",
+      "initial_release_date": "2003-03-28"
+    },
+    {
+      "name": "Gangster",
+      "genre": "Thriller",
+      "directed_by": "Anurag Basu",
+      "initial_release_date": "2006-04-28"
+    },
+    {
+      "name": "Gangster No. 1",
+      "genre": "Thriller",
+      "directed_by": "Paul McGuigan",
+      "initial_release_date": "2000-06-09"
+    },
+    {
+      "name": "Garden State",
+      "genre": "Romantic comedy",
+      "directed_by": "Zach Braff",
+      "initial_release_date": "2004-01-16"
+    },
+    {
+      "name": "Garfield: The Movie",
+      "genre": "Slapstick",
+      "directed_by": "Peter Hewitt",
+      "initial_release_date": "2004-06-06"
+    },
+    {
+      "name": "Gene-X",
+      "genre": "Thriller",
+      "directed_by": "Martin Simpson"
+    },
+    {
+      "name": "George of the Jungle 2",
+      "genre": "Parody",
+      "directed_by": "David Grossman",
+      "initial_release_date": "2003-08-18"
+    },
+    {
+      "name": "Getting My Brother Laid",
+      "genre": "Romantic comedy",
+      "directed_by": "Sven Taddicken"
+    },
+    {
+      "name": "Ghajini",
+      "genre": "Thriller",
+      "directed_by": "A.R. Murugadoss",
+      "initial_release_date": "2005-09-29"
+    },
+    {
+      "name": "Ghilli",
+      "genre": "Sports",
+      "directed_by": "Dharani",
+      "initial_release_date": "2004-04-17"
+    },
+    {
+      "name": "Ghost in the Shell 2: Innocence",
+      "genre": "Science Fiction",
+      "directed_by": "Mamoru Oshii",
+      "initial_release_date": "2004-03-06"
+    },
+    {
+      "name": "The International Playboys' First Movie: Ghouls Gone Wild!",
+      "genre": "Short Film",
+      "directed_by": "Ted Geoghegan",
+      "initial_release_date": "2004-10-28"
+    },
+    {
+      "name": "Ginger Snaps",
+      "genre": "Teen film",
+      "directed_by": "John Fawcett",
+      "initial_release_date": "2000-09-10"
+    },
+    {
+      "name": "Ginger Snaps 2: Unleashed",
+      "genre": "Thriller",
+      "directed_by": "Brett Sullivan",
+      "initial_release_date": "2004-01-30"
+    },
+    {
+      "name": "Girlfight",
+      "genre": "Teen film",
+      "directed_by": "Karyn Kusama",
+      "initial_release_date": "2000-01-22"
+    },
+    {
+      "name": "Glory Road",
+      "genre": "Sports",
+      "directed_by": "James Gartner",
+      "initial_release_date": "2006-01-13"
+    },
+    {
+      "name": "Goal!",
+      "genre": "Sports",
+      "directed_by": "Danny Cannon",
+      "initial_release_date": "2005-09-08"
+    },
+    {
+      "name": "Goal II: Living the Dream",
+      "genre": "Sports",
+      "directed_by": "Jaume Collet-Serra",
+      "initial_release_date": "2007-02-09"
+    },
+    {
+      "name": "Godavari",
+      "genre": "Romance Film",
+      "directed_by": "Sekhar Kammula",
+      "initial_release_date": "2006-05-19"
+    },
+    {
+      "name": "Godsend",
+      "genre": "Thriller",
+      "directed_by": "Nick Hamm",
+      "initial_release_date": "2004-04-30"
+    },
+    {
+      "name": "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack",
+      "genre": "Science Fiction",
+      "directed_by": "Shusuke Kaneko",
+      "initial_release_date": "2001-11-03"
+    },
+    {
+      "name": "Gone in 60 Seconds",
+      "genre": "Thriller",
+      "directed_by": "Dominic Sena",
+      "initial_release_date": "2000-06-05"
+    },
+    {
+      "name": "Good bye, Lenin!",
+      "genre": "Romance Film",
+      "directed_by": "Wolfgang Becker",
+      "initial_release_date": "2003-02-09"
+    },
+    {
+      "name": "Good Luck Chuck",
+      "genre": "Romance Film",
+      "directed_by": "Mark Helfrich",
+      "initial_release_date": "2007-06-13"
+    },
+    {
+      "name": "Good Night, and Good Luck",
+      "genre": "Political drama",
+      "directed_by": "George Clooney",
+      "initial_release_date": "2005-09-01"
+    },
+    {
+      "name": "Gothika",
+      "genre": "Thriller",
+      "directed_by": "Mathieu Kassovitz",
+      "initial_release_date": "2003-11-13"
+    },
+    {
+      "name": "Gotta Kick It Up!",
+      "genre": "Teen film",
+      "directed_by": "Ramón Menéndez"
+    },
+    {
+      "name": "Grande École",
+      "genre": "World cinema",
+      "directed_by": "Robert Salis",
+      "initial_release_date": "2004-02-04"
+    },
+    {
+      "name": "Grandma's Boy",
+      "genre": "Stoner film",
+      "directed_by": "Nicholaus Goossen",
+      "initial_release_date": "2006-01-06"
+    },
+    {
+      "name": "Grbavica: The Land of My Dreams",
+      "genre": "War film",
+      "directed_by": "Jasmila Žbanić",
+      "initial_release_date": "2006-02-12"
+    },
+    {
+      "name": "Green Street",
+      "genre": "Sports",
+      "directed_by": "Lexi Alexander",
+      "initial_release_date": "2005-03-12"
+    },
+    {
+      "name": "Green Tea",
+      "genre": "Romance Film",
+      "directed_by": "Zhang Yuan",
+      "initial_release_date": "2003-08-18"
+    },
+    {
+      "name": "Gridiron Gang",
+      "genre": "Sports",
+      "directed_by": "Phil Joanou",
+      "initial_release_date": "2006-09-15"
+    },
+    {
+      "name": "Grindhouse",
+      "genre": "Slasher",
+      "directed_by": "Robert Rodriguez",
+      "initial_release_date": "2007-04-06"
+    },
+    {
+      "name": "Guess Who",
+      "genre": "Romance Film",
+      "directed_by": "Kevin Rodney Sullivan",
+      "initial_release_date": "2005-03-25"
+    },
+    {
+      "name": "Primeval",
+      "genre": "Thriller",
+      "directed_by": "Michael Katleman",
+      "initial_release_date": "2007-01-12"
+    },
+    {
+      "name": "H",
+      "genre": "Thriller",
+      "directed_by": "Jong-hyuk Lee",
+      "initial_release_date": "2002-12-27"
+    },
+    {
+      "name": "Hadh Kar Di Aapne",
+      "genre": "Romantic comedy",
+      "directed_by": "Manoj Agrawal",
+      "initial_release_date": "2000-04-14"
+    },
+    {
+      "name": "Half Nelson",
+      "genre": "Social problem film",
+      "directed_by": "Ryan Fleck",
+      "initial_release_date": "2006-01-23"
+    },
+    {
+      "name": "Halloween Resurrection",
+      "genre": "Slasher",
+      "directed_by": "Rick Rosenthal",
+      "initial_release_date": "2002-07-12"
+    },
+    {
+      "name": "Hamlet",
+      "genre": "Thriller",
+      "directed_by": "Michael Almereyda",
+      "initial_release_date": "2000-05-12"
+    },
+    {
+      "name": "Hana and Alice",
+      "genre": "Romance Film",
+      "directed_by": "Shunji Iwai",
+      "initial_release_date": "2004-03-13"
+    },
+    {
+      "name": "Hannibal",
+      "genre": "Thriller",
+      "directed_by": "Ridley Scott",
+      "initial_release_date": "2001-02-09"
+    },
+    {
+      "name": "Happy",
+      "genre": "Romance Film",
+      "directed_by": "A. Karunakaran",
+      "initial_release_date": "2006-01-27"
+    },
+    {
+      "name": "Happy Ero Christmas",
+      "genre": "Romance Film",
+      "directed_by": "Lee Geon-dong",
+      "initial_release_date": "2003-12-17"
+    },
+    {
+      "name": "Hard Candy",
+      "genre": "Psychological thriller",
+      "directed_by": "David Slade"
+    },
+    {
+      "name": "Hard Luck",
+      "genre": "Thriller",
+      "directed_by": "Mario Van Peebles",
+      "initial_release_date": "2006-10-17"
+    },
+    {
+      "name": "Hardball",
+      "genre": "Sports",
+      "directed_by": "Brian Robbins",
+      "initial_release_date": "2001-09-14"
+    },
+    {
+      "name": "Harold &amp; Kumar Go to White Castle",
+      "genre": "Stoner film",
+      "directed_by": "Danny Leiner",
+      "initial_release_date": "2004-05-20"
+    }
+  ]
+}
