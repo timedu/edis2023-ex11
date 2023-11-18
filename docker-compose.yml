@@ -6,8 +6,6 @@ services:
     image: edis-python:round-11
     build: .
     command: bash
-    environment:
-      - TODO_FOLDER=${TODO_FOLDER}
     volumes:
       - ./app:/home/app
     profiles:
